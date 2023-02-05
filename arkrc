@@ -1,0 +1,23 @@
+Height 768=768
+State=AAAA/wAAAAD9AAAAAAAABVYAAALGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+Width 1366=1366
+
+[CreateDialog]
+LastMimeType=application/zip
+
+[MainWindow]
+Height 768=736
+State=AAAA/wAAAAD9AAAAAAAAAcMAAAKmAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1366=451
+splitterSizes=298,149
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/mssql-jdbc-11.2.1.jre18.jar
+Name1[$e]=mssql-jdbc-11.2.1.jre18.jar

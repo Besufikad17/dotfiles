@@ -50,6 +50,8 @@ bindsym $mod+Return exec alacritty
 # kill focused window
 bindsym $mod+Shift+q kill
 exec --no-startup-id nitrogen --restore
+
+exec --no-startup-id compton -b
 # start dmenu (a program launcher)
 # bindsym $mod+d exec dmenu_run
 # There also is the (new) i3-dmenu-desktop which only displays applications
@@ -91,6 +93,9 @@ bindsym $mod+v split v
 
 #rofi
 bindsym $mod+d exec "rofi -show drun -show-icons"
+
+# powerline 
+bindsym $mod+Shift+s exec "rofi -show power-menu -modi power-menu:rofi-power-menu"
 
 # enter fullscreen mode for the focused container
 bindsym $mod+f fullscreen toggle
