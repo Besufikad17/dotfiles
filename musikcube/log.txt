@@ -1,0 +1,1351 @@
+11:05:44 [info] [LOG SESSION] ---------- START ----------
+11:05:44 [info] [PluginFactory] loading plugins
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpipewireout.so
+11:05:44 [error] [PluginFactory] exception while loading plugin /usr/share/musikcube/plugins/libportaudioout.so: libportaudio.so.2: cannot open shared object file: No such file or directory
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+11:05:44 [error] [PluginFactory] exception while loading plugin /usr/share/musikcube/plugins/libsndioout.so: libsndio.so.7.0: cannot open shared object file: No such file or directory
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+11:05:44 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+11:05:44 [info] [PipeWireOut] shutdown started
+11:05:44 [info] [PipeWireOut] shutdown complete
+11:05:44 [info] [Indexer] indexer source -1303229654 running...
+11:05:44 [info] [Indexer] indexer source -1303229654 finished
+11:05:44 [info] [Indexer] indexer source 155697690 running...
+11:05:44 [info] [Indexer] indexer source 155697690 finished
+11:05:44 [info] [Indexer] scanning /home/bes/Music/amh/
+11:05:44 [info] [Indexer] scanning /home/bes/Music/anime openings, jp music/
+11:05:44 [info] [Indexer] scanning /home/bes/Music/denzel/
+11:05:44 [info] [Indexer] scanning /home/bes/Music/grunge/
+11:05:44 [info] [Indexer] scanning /home/bes/Music/jrock/
+11:05:44 [info] [Indexer] scanning /home/bes/Music/rapbox/
+11:05:44 [info] [Indexer] scan completed successfully
+11:05:44 [info] [Indexer] cleanup 1/2
+11:05:44 [info] [Indexer] cleanup 2/2
+11:05:44 [info] [Indexer] optimizing
+11:05:44 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+11:05:44 [info] [Indexer] done!
+11:05:44 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+11:05:44 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+11:05:44 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+11:05:44 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+11:05:44 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:05:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:05:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:05:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:05:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:05:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:05:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:05:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:05:52 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:05:52 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:05:52 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:05:52 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+11:05:52 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+11:05:52 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+11:05:53 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:05:53 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:05:53 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:05:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:05:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:05:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:08 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:06:08 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:06:08 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:06:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:06:12 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:06:25 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:06:25 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:06:25 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:06:25 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:25 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:25 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:25 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:25 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:25 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:06:25 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:25 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:06:25 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:06:25 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:25 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:25 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:25 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:25 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:25 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:25 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:25 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:25 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:29 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:29 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:29 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:29 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:29 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:29 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:29 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:30 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:30 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+11:06:31 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+11:06:31 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+11:06:31 [info] [GaplessTransport] starting track at /home/bes/Music/rapbox/Watch - Travis Scott.mp3
+11:06:31 [info] [Player] new instance created
+11:06:31 [info] [Stream] opening /home/bes/Music/rapbox/Watch - Travis Scott.mp3
+11:06:31 [info] [GaplessTransport] stop
+11:06:31 [info] [LocalFileStream] opening file: /home/bes/Music/rapbox/Watch - Travis Scott.mp3
+11:06:31 [info] [ffmpegdecoder] parsing data stream...
+11:06:31 [info] [ffmpegdecoder] found audio stream!
+11:06:31 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:06:31 [info] [Streams] found a decoder for /home/bes/Music/rapbox/Watch - Travis Scott.mp3
+11:06:31 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:06:35 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:35 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:35 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:35 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:35 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:35 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:36 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:36 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:37 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:37 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:37 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:37 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:37 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:37 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:37 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:38 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:38 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:39 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:39 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:40 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:41 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:41 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:41 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:41 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:41 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:41 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:41 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:41 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:41 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:41 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:41 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:41 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:41 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:41 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:41 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:41 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:41 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:41 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:42 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:42 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:42 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:42 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:42 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:42 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:43 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:43 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:43 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:43 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:43 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:43 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:44 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:44 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:44 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:44 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:44 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:44 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:45 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:45 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:45 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:45 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:45 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:45 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:45 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:45 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:45 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:46 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:46 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:47 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:47 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:47 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:47 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:47 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:47 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:47 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:47 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:47 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:47 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:47 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:47 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:47 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:47 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:47 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:47 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:47 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:47 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:48 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:48 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:48 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:48 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:48 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:48 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:48 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:48 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:48 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:48 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:48 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:48 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:48 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:48 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:48 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:48 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:48 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:48 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:49 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:49 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:49 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:49 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:49 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:49 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:49 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:49 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:49 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:49 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:50 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:50 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:50 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:50 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:50 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:50 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:50 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:50 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:50 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:50 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:50 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:50 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:50 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:50 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:50 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:51 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:51 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:51 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:51 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:51 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:51 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:51 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:51 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:51 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:51 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:51 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:51 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:51 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:51 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:51 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:51 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:51 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:51 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:58 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:58 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:06:59 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:06:59 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:00 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:00 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:00 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:00 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:00 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:00 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:00 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:01 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:01 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:01 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:01 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:01 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:01 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:01 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:01 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:01 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:01 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:02 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:02 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:03 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:03 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:03 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:03 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:03 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:03 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:03 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:03 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:03 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:03 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:03 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:03 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:03 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:03 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:03 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:06 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:06 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:07 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:07 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:07 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:07 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:07 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:07 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:07 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:07 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:07 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:07 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:07 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:07 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:07 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:07 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:07 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:07 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:07 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:07 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:08 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:08 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:11 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:11 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:12 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:12 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:07:12 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:07:12 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:14 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:22 [info] [PipeWireOut] shutdown started
+11:07:22 [info] [PipeWireOut] shutdown complete
+11:07:22 [info] [PipeWireOut] shutdown started
+11:07:22 [info] [PipeWireOut] shutdown complete
+11:07:25 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+11:07:25 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+11:07:25 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+11:07:44 [info] [Indexer] indexer source -1303229654 running...
+11:07:44 [info] [Indexer] indexer source -1303229654 finished
+11:07:44 [info] [Indexer] indexer source 155697690 running...
+11:07:44 [info] [Indexer] indexer source 155697690 finished
+11:07:44 [info] [Indexer] scanning /home/bes/Music/amh/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/anime openings, jp music/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/denzel/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/grunge/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/jrock/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/rapbox/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/the-weeknd/
+11:07:44 [info] [Indexer] scan completed successfully
+11:07:44 [info] [Indexer] cleanup 1/2
+11:07:44 [info] [Indexer] cleanup 2/2
+11:07:44 [info] [Indexer] optimizing
+11:07:44 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+11:07:44 [info] [Indexer] done!
+11:07:44 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+11:07:44 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:44 [info] [Indexer] indexer source -1303229654 running...
+11:07:44 [info] [Indexer] indexer source -1303229654 finished
+11:07:44 [info] [Indexer] indexer source 155697690 running...
+11:07:44 [info] [Indexer] indexer source 155697690 finished
+11:07:44 [info] [Indexer] scanning /home/bes/Music/amh/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/anime openings, jp music/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/denzel/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/grunge/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/jrock/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/rapbox/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/the-weeknd/
+11:07:44 [info] [Indexer] scanning /home/bes/Music/this is powfu/
+11:07:44 [info] [Indexer] scan completed successfully
+11:07:44 [info] [Indexer] cleanup 1/2
+11:07:44 [info] [Indexer] cleanup 2/2
+11:07:44 [info] [Indexer] optimizing
+11:07:44 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+11:07:44 [info] [Indexer] done!
+11:07:44 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+11:07:44 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:44 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:44 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:45 [info] [Indexer] indexer source -1303229654 running...
+11:07:45 [info] [Indexer] indexer source -1303229654 finished
+11:07:45 [info] [Indexer] indexer source 155697690 running...
+11:07:45 [info] [Indexer] indexer source 155697690 finished
+11:07:45 [info] [Indexer] scanning /home/bes/Music/amh/
+11:07:45 [info] [Indexer] scanning /home/bes/Music/anime openings, jp music/
+11:07:45 [info] [Indexer] scanning /home/bes/Music/denzel/
+11:07:45 [info] [Indexer] scanning /home/bes/Music/grunge/
+11:07:45 [info] [Indexer] scanning /home/bes/Music/jrock/
+11:07:45 [info] [Indexer] scanning /home/bes/Music/rapbox/
+11:07:45 [info] [Indexer] scanning /home/bes/Music/the-weeknd/
+11:07:45 [info] [Indexer] scanning /home/bes/Music/this is powfu/
+11:07:45 [info] [Indexer] scanning /home/bes/Music/this_is_travis_scott/
+11:07:45 [info] [Indexer] scan completed successfully
+11:07:45 [info] [Indexer] cleanup 1/2
+11:07:45 [info] [Indexer] cleanup 2/2
+11:07:45 [info] [Indexer] optimizing
+11:07:45 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+11:07:45 [info] [Indexer] done!
+11:07:45 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+11:07:45 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+11:07:45 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:45 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:45 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:45 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=5
+11:07:45 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:45 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:07:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:07:45 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:07:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:08:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:08:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:08:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:08:04 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:08:04 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:08:04 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:08:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:08:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:08:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:08:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:08:04 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+11:08:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:08:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:08:04 [info] [LocalLibrary] query 'CategoryListQuery' running
+11:08:04 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+11:08:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:08:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:08:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:08:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+11:08:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+11:08:04 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+11:08:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+11:08:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+11:08:04 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+11:08:05 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+11:08:05 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+11:08:05 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+11:08:05 [info] [GaplessTransport] starting track at /home/bes/Music/rapbox/Watch - Travis Scott.mp3
+11:08:05 [info] [Player] new instance created
+11:08:05 [info] [GaplessTransport] stop
+11:08:05 [info] [Stream] opening /home/bes/Music/rapbox/Watch - Travis Scott.mp3
+11:08:05 [info] [LocalFileStream] opening file: /home/bes/Music/rapbox/Watch - Travis Scott.mp3
+11:08:05 [info] [ffmpegdecoder] parsing data stream...
+11:08:05 [info] [ffmpegdecoder] found audio stream!
+11:08:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:08:05 [info] [Streams] found a decoder for /home/bes/Music/rapbox/Watch - Travis Scott.mp3
+11:08:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:08:05 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+11:08:05 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+11:08:05 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+11:08:05 [info] [Player] new instance created
+11:08:05 [info] [Stream] opening /home/bes/Music/this_is_travis_scott/3500 - Travis Scott.mp3
+11:08:05 [info] [LocalFileStream] opening file: /home/bes/Music/this_is_travis_scott/3500 - Travis Scott.mp3
+11:08:05 [info] [ffmpegdecoder] parsing data stream...
+11:08:05 [info] [ffmpegdecoder] found audio stream!
+11:08:05 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:08:05 [info] [Streams] found a decoder for /home/bes/Music/this_is_travis_scott/3500 - Travis Scott.mp3
+11:08:05 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:08:28 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+11:08:28 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+11:08:28 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+11:08:28 [info] [GaplessTransport] starting track at /home/bes/Music/this_is_travis_scott/MAFIA - Travis Scott.mp3
+11:08:28 [info] [Player] new instance created
+11:08:28 [info] [GaplessTransport] stop
+11:08:28 [info] [Stream] opening /home/bes/Music/this_is_travis_scott/MAFIA - Travis Scott.mp3
+11:08:28 [info] [LocalFileStream] opening file: /home/bes/Music/this_is_travis_scott/MAFIA - Travis Scott.mp3
+11:08:28 [info] [ffmpegdecoder] parsing data stream...
+11:08:28 [info] [ffmpegdecoder] found audio stream!
+11:08:28 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:08:28 [info] [Streams] found a decoder for /home/bes/Music/this_is_travis_scott/MAFIA - Travis Scott.mp3
+11:08:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:08:28 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+11:08:28 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+11:08:28 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+11:08:28 [info] [Player] new instance created
+11:08:28 [info] [Stream] opening /home/bes/Music/this_is_travis_scott/Antidote - Travis Scott.mp3
+11:08:28 [info] [LocalFileStream] opening file: /home/bes/Music/this_is_travis_scott/Antidote - Travis Scott.mp3
+11:08:28 [info] [ffmpegdecoder] parsing data stream...
+11:08:28 [info] [ffmpegdecoder] found audio stream!
+11:08:28 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:08:28 [info] [Streams] found a decoder for /home/bes/Music/this_is_travis_scott/Antidote - Travis Scott.mp3
+11:08:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:09:28 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+11:09:28 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+11:09:28 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+11:12:26 [info] [ffmpegdecoder] finished decoding.
+11:12:28 [info] [GaplessTransport] stop
+11:12:28 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+11:12:28 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+11:12:28 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+11:12:28 [info] [Player] new instance created
+11:12:28 [info] [Stream] opening /home/bes/Music/this_is_travis_scott/HOUSTONFORNICATION - Travis Scott.mp3
+11:12:28 [info] [LocalFileStream] opening file: /home/bes/Music/this_is_travis_scott/HOUSTONFORNICATION - Travis Scott.mp3
+11:12:28 [info] [ffmpegdecoder] parsing data stream...
+11:12:28 [info] [ffmpegdecoder] found audio stream!
+11:12:28 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:12:28 [info] [Streams] found a decoder for /home/bes/Music/this_is_travis_scott/HOUSTONFORNICATION - Travis Scott.mp3
+11:12:28 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:13:33 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+11:13:33 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+11:13:33 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+11:16:48 [info] [ffmpegdecoder] finished decoding.
+11:16:51 [info] [GaplessTransport] stop
+11:16:51 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+11:16:51 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+11:16:51 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+11:16:51 [info] [Player] new instance created
+11:16:51 [info] [Stream] opening /home/bes/Music/this_is_travis_scott/NO BYSTANDERS - Travis Scott.mp3
+11:16:51 [info] [LocalFileStream] opening file: /home/bes/Music/this_is_travis_scott/NO BYSTANDERS - Travis Scott.mp3
+11:16:51 [info] [ffmpegdecoder] parsing data stream...
+11:16:51 [info] [ffmpegdecoder] found audio stream!
+11:16:51 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:16:51 [info] [Streams] found a decoder for /home/bes/Music/this_is_travis_scott/NO BYSTANDERS - Travis Scott.mp3
+11:16:51 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:17:45 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+11:17:45 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+11:17:45 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+11:20:26 [info] [ffmpegdecoder] finished decoding.
+11:20:28 [info] [GaplessTransport] stop
+11:20:29 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+11:20:29 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+11:20:29 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+11:20:29 [info] [Player] new instance created
+11:20:29 [info] [Stream] opening /home/bes/Music/this_is_travis_scott/R.I.P. SCREW - Travis Scott.mp3
+11:20:29 [info] [LocalFileStream] opening file: /home/bes/Music/this_is_travis_scott/R.I.P. SCREW - Travis Scott.mp3
+11:20:29 [info] [ffmpegdecoder] parsing data stream...
+11:20:29 [info] [ffmpegdecoder] found audio stream!
+11:20:29 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
+11:20:29 [info] [Streams] found a decoder for /home/bes/Music/this_is_travis_scott/R.I.P. SCREW - Travis Scott.mp3
+11:20:29 [warning] [ffmpegdecoder] invalid packet detected, discarding.
+11:21:23 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
+11:21:23 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
+11:21:23 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
+11:23:27 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+11:23:27 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+11:23:27 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+11:23:27 [info] [GaplessTransport] stop
