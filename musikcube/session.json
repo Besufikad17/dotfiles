@@ -1,13 +1,13 @@
 {
-  "LastBrowseCategoryId": 18.0,
-  "LastBrowseCategoryType": "artist",
+  "LastBrowseCategoryId": 3.0,
+  "LastBrowseCategoryType": "genre",
   "LastBrowseFilter": "",
   "LastBrowseFilterVisible": false,
   "LastCategoryFilter": "",
   "LastCategoryFilterMatchType": 1,
-  "LastLibraryView": "Browse",
-  "LastPlayQueueIndex": 15,
-  "LastPlayQueueTime": 167.0,
+  "LastLibraryView": "TrackFilter",
+  "LastPlayQueueIndex": -1,
+  "LastPlayQueueTime": 0.0,
   "LastTrackFilter": "",
   "LastTrackFilterMatchType": 1
 }
