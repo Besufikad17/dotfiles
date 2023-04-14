@@ -1,244 +1,193 @@
-22:38:09 [info] [LOG SESSION] ---------- START ----------
-22:38:09 [info] [PluginFactory] loading plugins
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpipewireout.so
-22:38:09 [error] [PluginFactory] exception while loading plugin /usr/share/musikcube/plugins/libportaudioout.so: libportaudio.so.2: cannot open shared object file: No such file or directory
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
-22:38:09 [error] [PluginFactory] exception while loading plugin /usr/share/musikcube/plugins/libsndioout.so: libsndio.so.7.0: cannot open shared object file: No such file or directory
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
-22:38:09 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
-22:38:09 [info] [PipeWireOut] shutdown started
-22:38:09 [info] [PipeWireOut] shutdown complete
-22:38:09 [info] [Indexer] indexer source -1303229654 running...
-22:38:09 [info] [Indexer] indexer source -1303229654 finished
-22:38:09 [info] [Indexer] indexer source 155697690 running...
-22:38:09 [info] [Indexer] indexer source 155697690 finished
-22:38:09 [info] [Indexer] scanning /home/bes/Music/amh/
-22:38:09 [info] [Indexer] scanning /home/bes/Music/anime openings, jp music/
-22:38:09 [info] [Indexer] scanning /home/bes/Music/denzel/
-22:38:09 [info] [Indexer] scanning /home/bes/Music/grunge/
-22:38:09 [info] [Indexer] scanning /home/bes/Music/jrock/
-22:38:09 [info] [Indexer] scanning /home/bes/Music/rapbox/
-22:38:09 [info] [Indexer] scanning /home/bes/Music/the-weeknd/
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' running
-22:38:09 [info] [Indexer] scanning /home/bes/Music/this is powfu/
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
-22:38:09 [info] [Indexer] scanning /home/bes/Music/this_is_travis_scott/
-22:38:09 [info] [Indexer] scan completed successfully
-22:38:09 [info] [Indexer] cleanup 1/2
-22:38:09 [info] [Indexer] cleanup 2/2
-22:38:09 [info] [Indexer] optimizing
-22:38:09 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
-22:38:09 [info] [Indexer] done!
-22:38:09 [info] [LocalLibrary] query 'SearchTrackListQuery' running
-22:38:09 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
-22:38:09 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
-22:38:09 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
-22:38:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' running
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' running
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' running
-22:38:09 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
-22:38:09 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'TrackMetadataQuery' running
-22:38:09 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
-22:38:09 [info] [GaplessTransport] starting track at /home/bes/Music/this_is_travis_scott/NO BYSTANDERS - Travis Scott.mp3
-22:38:09 [info] [Player] new instance created
-22:38:09 [info] [GaplessTransport] stop
-22:38:09 [info] [Stream] opening /home/bes/Music/this_is_travis_scott/NO BYSTANDERS - Travis Scott.mp3
-22:38:09 [info] [LocalFileStream] opening file: /home/bes/Music/this_is_travis_scott/NO BYSTANDERS - Travis Scott.mp3
-22:38:09 [info] [ffmpegdecoder] parsing data stream...
-22:38:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:09 [info] [ffmpegdecoder] found audio stream!
-22:38:09 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-22:38:09 [info] [Streams] found a decoder for /home/bes/Music/this_is_travis_scott/NO BYSTANDERS - Travis Scott.mp3
-22:38:09 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-22:38:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:09 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:09 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:10 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:10 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:10 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:10 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:13 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:13 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:14 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:14 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:14 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:14 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:14 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:14 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:14 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:15 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:15 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:15 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:15 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:15 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:15 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:15 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:16 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:16 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:16 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:16 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:17 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:17 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:17 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:17 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:17 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:17 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:18 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:18 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:18 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:18 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:18 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:18 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:38:22 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
-22:38:22 [info] [LocalLibrary] query 'TrackMetadataQuery' running
-22:38:22 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
-22:38:22 [info] [GaplessTransport] starting track at /home/bes/Music/rapbox/Poke It Out - Playboi Carti.mp3
-22:38:22 [info] [Player] new instance created
-22:38:22 [info] [GaplessTransport] stop
-22:38:22 [info] [Stream] opening /home/bes/Music/rapbox/Poke It Out - Playboi Carti.mp3
-22:38:22 [info] [LocalFileStream] opening file: /home/bes/Music/rapbox/Poke It Out - Playboi Carti.mp3
-22:38:22 [info] [ffmpegdecoder] parsing data stream...
-22:38:22 [info] [ffmpegdecoder] found audio stream!
-22:38:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-22:38:22 [info] [Streams] found a decoder for /home/bes/Music/rapbox/Poke It Out - Playboi Carti.mp3
-22:38:22 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-22:38:22 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
-22:38:22 [info] [LocalLibrary] query 'TrackMetadataQuery' running
-22:38:22 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
-22:38:22 [info] [Player] new instance created
-22:38:22 [info] [Stream] opening /home/bes/Music/rapbox/New N3on - Playboi Carti.mp3
-22:38:22 [info] [LocalFileStream] opening file: /home/bes/Music/rapbox/New N3on - Playboi Carti.mp3
-22:38:22 [info] [ffmpegdecoder] parsing data stream...
-22:38:22 [info] [ffmpegdecoder] found audio stream!
-22:38:22 [info] [ffmpegdecoder] resolved codec: MP3 (MPEG audio layer 3)
-22:38:22 [info] [Streams] found a decoder for /home/bes/Music/rapbox/New N3on - Playboi Carti.mp3
-22:38:22 [warning] [ffmpegdecoder] invalid packet detected, discarding.
-22:38:27 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:27 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:27 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:27 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
-22:38:27 [info] [LocalLibrary] query 'CategoryListQuery' running
-22:38:27 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
-22:38:27 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:27 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:27 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
-22:38:27 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:27 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
-22:38:27 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
-22:38:27 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-22:38:27 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-22:38:27 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-22:39:29 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
-22:39:29 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
-22:39:29 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
-22:42:50 [info] [ffmpegdecoder] finished decoding.
-22:42:52 [info] [GaplessTransport] stop
-22:43:21 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' enqueued
-22:43:21 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' running
-22:43:21 [info] [LocalLibrary] query 'MarkTrackPlayedQuery' finished with status=4
-22:44:46 [info] [ffmpegdecoder] finished decoding.
-22:44:48 [info] [GaplessTransport] stop
-23:17:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-23:17:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-23:17:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-23:17:40 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
-23:17:40 [info] [LocalLibrary] query 'SearchTrackListQuery' running
-23:17:40 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
-23:17:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
-23:17:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
-23:17:40 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
-23:17:44 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
-23:17:44 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
-23:17:44 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
-23:17:44 [info] [GaplessTransport] stop
+00:30:56 [info] [LOG SESSION] ---------- START ----------
+00:30:56 [info] [PluginFactory] loading plugins
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libalsaout.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libffmpegdecoder.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libgmedecoder.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libhttpdatastream.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libmpris.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libnullout.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libopenmptdecoder.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpipewireout.so
+00:30:56 [error] [PluginFactory] exception while loading plugin /usr/share/musikcube/plugins/libportaudioout.so: libportaudio.so.2: cannot open shared object file: No such file or directory
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libpulseout.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libserver.so
+00:30:56 [error] [PluginFactory] exception while loading plugin /usr/share/musikcube/plugins/libsndioout.so: libsndio.so.7.0: cannot open shared object file: No such file or directory
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libstockencoders.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libsupereqdsp.so
+00:30:56 [info] [PluginFactory] loaded: /usr/share/musikcube/plugins/libtaglibreader.so
+00:30:56 [info] [PipeWireOut] shutdown started
+00:30:56 [info] [PipeWireOut] shutdown complete
+00:30:56 [info] [Indexer] indexer source -1303229654 running...
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+00:30:56 [info] [Indexer] indexer source -1303229654 finished
+00:30:56 [info] [Indexer] indexer source 155697690 running...
+00:30:56 [info] [Indexer] indexer source 155697690 finished
+00:30:56 [info] [Indexer] scanning /home/bes/Music/amh/
+00:30:56 [info] [Indexer] scanning /home/bes/Music/anime openings, jp music/
+00:30:56 [info] [Indexer] scanning /home/bes/Music/denzel/
+00:30:56 [info] [Indexer] scanning /home/bes/Music/grunge/
+00:30:56 [info] [Indexer] scanning /home/bes/Music/jrock/
+00:30:56 [info] [Indexer] scanning /home/bes/Music/rapbox/
+00:30:56 [info] [Indexer] scanning /home/bes/Music/the-weeknd/
+00:30:56 [info] [Indexer] scanning /home/bes/Music/this is powfu/
+00:30:56 [info] [Indexer] scanning /home/bes/Music/this_is_travis_scott/
+00:30:56 [info] [Indexer] scan completed successfully
+00:30:56 [info] [Indexer] cleanup 1/2
+00:30:56 [info] [Indexer] cleanup 2/2
+00:30:56 [info] [Indexer] optimizing
+00:30:56 [info] [LocalLibrary] query 'SearchTrackListQuery' enqueued
+00:30:56 [info] [Indexer] done!
+00:30:56 [info] [LocalLibrary] query 'SearchTrackListQuery' running
+00:30:56 [info] [LocalLibrary] query 'SearchTrackListQuery' finished with status=4
+00:30:56 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+00:30:56 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' running
+00:30:56 [info] [LocalLibrary] query 'CategoryListQuery' finished with status=4
+00:30:56 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+00:30:56 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+00:30:56 [info] [GaplessTransport] starting track at /home/bes/Music/amh/ዳዊት_መለሰ_አንቺን_ነው_ሙሉ_አልበም_DAWIT_MELESE_ANCHIN_NEW_FULL_AL_mWc62YYq6KU.ogg
+00:30:56 [info] [Player] new instance created
+00:30:56 [info] [GaplessTransport] stop
+00:30:56 [info] [Stream] opening /home/bes/Music/amh/ዳዊት_መለሰ_አንቺን_ነው_ሙሉ_አልበም_DAWIT_MELESE_ANCHIN_NEW_FULL_AL_mWc62YYq6KU.ogg
+00:30:56 [info] [LocalFileStream] opening file: /home/bes/Music/amh/ዳዊት_መለሰ_አንቺን_ነው_ሙሉ_አልበም_DAWIT_MELESE_ANCHIN_NEW_FULL_AL_mWc62YYq6KU.ogg
+00:30:56 [info] [ffmpegdecoder] parsing data stream...
+00:30:56 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+00:30:56 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+00:30:56 [info] [ffmpegdecoder] found audio stream!
+00:30:56 [info] [ffmpegdecoder] resolved codec: Opus
+00:30:56 [info] [Streams] found a decoder for /home/bes/Music/amh/ዳዊት_መለሰ_አንቺን_ነው_ሙሉ_አልበም_DAWIT_MELESE_ANCHIN_NEW_FULL_AL_mWc62YYq6KU.ogg
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' running
+00:30:56 [info] [LocalLibrary] query 'CategoryTrackListQuery' finished with status=4
+00:30:56 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' enqueued
+00:30:56 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' running
+00:30:56 [info] [LocalLibrary] query 'TrackMetadataBatchQuery' finished with status=4
+00:31:09 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+00:31:09 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+00:31:09 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+00:31:09 [info] [GaplessTransport] starting track at /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:09 [info] [Player] new instance created
+00:31:09 [info] [GaplessTransport] stop
+00:31:09 [info] [Stream] opening /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:09 [info] [LocalFileStream] opening file: /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:09 [info] [ffmpegdecoder] parsing data stream...
+00:31:09 [info] [ffmpegdecoder] found audio stream!
+00:31:09 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:09 [info] [Streams] found a decoder for /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:09 [info] [LocalLibrary] query 'TrackMetadataQuery' enqueued
+00:31:09 [info] [LocalLibrary] query 'TrackMetadataQuery' running
+00:31:09 [info] [LocalLibrary] query 'TrackMetadataQuery' finished with status=4
+00:31:09 [info] [Player] new instance created
+00:31:09 [info] [Stream] opening /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:09 [info] [LocalFileStream] opening file: /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:09 [info] [ffmpegdecoder] parsing data stream...
+00:31:09 [info] [ffmpegdecoder] found audio stream!
+00:31:09 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:09 [info] [Streams] found a decoder for /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:09 [info] [GaplessTransport] starting track at /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:09 [info] [Player] new instance created
+00:31:09 [info] [Stream] opening /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:09 [info] [LocalFileStream] opening file: /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:09 [info] [ffmpegdecoder] parsing data stream...
+00:31:09 [info] [GaplessTransport] stop
+00:31:09 [info] [ffmpegdecoder] found audio stream!
+00:31:09 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:09 [info] [Streams] found a decoder for /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:10 [info] [Player] new instance created
+00:31:10 [info] [Stream] opening /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:10 [info] [LocalFileStream] opening file: /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:10 [info] [ffmpegdecoder] parsing data stream...
+00:31:10 [info] [GaplessTransport] pause
+00:31:10 [info] [ffmpegdecoder] found audio stream!
+00:31:10 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:10 [info] [Streams] found a decoder for /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:10 [info] [GaplessTransport] resume
+00:31:18 [info] [GaplessTransport] starting track at /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:18 [info] [Player] new instance created
+00:31:18 [info] [Stream] opening /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:18 [info] [GaplessTransport] stop
+00:31:18 [info] [LocalFileStream] opening file: /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:18 [info] [ffmpegdecoder] parsing data stream...
+00:31:18 [info] [ffmpegdecoder] found audio stream!
+00:31:18 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:18 [info] [Streams] found a decoder for /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:18 [info] [Player] new instance created
+00:31:18 [info] [Stream] opening /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:18 [info] [LocalFileStream] opening file: /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:18 [info] [ffmpegdecoder] parsing data stream...
+00:31:18 [info] [ffmpegdecoder] found audio stream!
+00:31:18 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:18 [info] [Streams] found a decoder for /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:19 [info] [GaplessTransport] starting track at /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:19 [info] [Player] new instance created
+00:31:19 [info] [Stream] opening /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:19 [info] [GaplessTransport] stop
+00:31:19 [info] [LocalFileStream] opening file: /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:19 [info] [ffmpegdecoder] parsing data stream...
+00:31:19 [info] [ffmpegdecoder] found audio stream!
+00:31:19 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:19 [info] [Streams] found a decoder for /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:19 [info] [Player] new instance created
+00:31:19 [info] [Stream] opening /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:19 [info] [LocalFileStream] opening file: /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:19 [info] [ffmpegdecoder] parsing data stream...
+00:31:19 [info] [ffmpegdecoder] found audio stream!
+00:31:19 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:19 [info] [Streams] found a decoder for /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:19 [info] [GaplessTransport] starting track at /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:19 [info] [Player] new instance created
+00:31:19 [info] [GaplessTransport] stop
+00:31:19 [info] [Stream] opening /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:19 [info] [LocalFileStream] opening file: /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:19 [info] [ffmpegdecoder] parsing data stream...
+00:31:19 [info] [ffmpegdecoder] found audio stream!
+00:31:19 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:19 [info] [Streams] found a decoder for /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:19 [info] [Player] new instance created
+00:31:19 [info] [Stream] opening /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:19 [info] [LocalFileStream] opening file: /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:19 [info] [ffmpegdecoder] parsing data stream...
+00:31:19 [info] [ffmpegdecoder] found audio stream!
+00:31:19 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:19 [info] [Streams] found a decoder for /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:20 [info] [GaplessTransport] starting track at /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:20 [info] [Player] new instance created
+00:31:20 [info] [Stream] opening /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:20 [info] [GaplessTransport] stop
+00:31:20 [info] [LocalFileStream] opening file: /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:20 [info] [ffmpegdecoder] parsing data stream...
+00:31:20 [info] [ffmpegdecoder] found audio stream!
+00:31:20 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:20 [info] [Streams] found a decoder for /home/bes/Music/amh/ፀጋዬ_እሸቱ_1981_ዓም_ሙሉ_አልበም_Tsegaye_Eshetu_Full_Album_Ethio_r9LstN45dmE.ogg
+00:31:20 [info] [Player] new instance created
+00:31:20 [info] [Stream] opening /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:20 [info] [LocalFileStream] opening file: /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:20 [info] [ffmpegdecoder] parsing data stream...
+00:31:20 [info] [ffmpegdecoder] found audio stream!
+00:31:20 [info] [ffmpegdecoder] resolved codec: Opus
+00:31:20 [info] [Streams] found a decoder for /home/bes/Music/amh/አረጋኸኝ_ወራሽ_1981_ዓም_አልበም_Aregahegn_Worash_Full_Album_Ethi_DAM3jCTqzhk.ogg
+00:31:35 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' enqueued
+00:31:35 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' running
+00:31:35 [info] [LocalLibrary] query 'PersistedPlayQueueQuery' finished with status=4
+00:31:35 [info] [GaplessTransport] stop

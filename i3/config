@@ -62,6 +62,9 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 bindsym $mod+l exec i3lock -u -i $HOME/Downloads/Arch_Danshi1.png 
 
+# tlauncher
+bindsym $mod+Shift+m exec /usr/lib/jvm/java-11-openjdk-11.0.18.0.10-1.fc37.x86_64/bin/java -jar /home/Downloads/TLauncher-2.879/TLauncher-2.879.jar
+
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus down

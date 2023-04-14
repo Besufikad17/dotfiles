@@ -1,0 +1,99 @@
+* {
+  font-family: Hack, 'Font Awesome 6 Free';
+  font-size: 13px;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 0;
+}
+
+window#waybar {
+  background: transparent;
+}
+
+#workspaces {
+  background: #1d2021;
+  border-radius: 5px;
+}
+
+#workspaces button {
+  padding: 2px 10px;
+  transition: all 0.2s ease-in-out;
+}
+
+#workspaces button.active {
+  background: #928374;
+  padding: 2px 20px;
+}
+
+#workspaces button:hover {
+  box-shadow: inherit;
+  text-shadow: inherit;
+  background: #928374;
+  border-color: #928374;
+}
+
+#custom-screenlock-timeout,
+#language,
+#mpd,
+#pulseaudio,
+#disk,
+#tray,
+#clock,
+#cpu,
+#memory,
+#custom-fans,
+#custom-temperature,
+#custom-network,
+#custom-net-usage,
+#battery {
+  border-radius: 5px;
+  padding: 8px 10px;
+}
+
+#custom-screenlock-timeout,
+#language,
+#mpd,
+#pulseaudio,
+#disk,
+#tray {
+  background: #98971a;
+}
+
+#custom-screenlock-timeout.off,
+#mpd.disconnected,
+#mpd.paused,
+#pulseaudio.muted {
+  background: #777777;
+}
+
+#clock {
+  background: #689d6a;
+}
+
+#cpu,
+#memory,
+#custom-fans,
+#custom-temperature,
+#custom-network,
+#custom-net-usage,
+#battery {
+  background: #458588;
+}
+
+#battery.charging.high,
+#battery.discharging.low,
+#battery.full {
+  animation-name: blink;
+  animation-duration: 0.3s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes blink {
+  to {
+    background-color: #cc241d;
+    padding: 8px 30px;
+  }
+}
+

@@ -5,15 +5,25 @@ AlsaOut: joining...
 AlsaOut: thread finished
 AlsaOut: closing device...
 AlsaOut: destroyed.
-[2023-04-03 22:38:09] [info] asio async_connect error: asio.system:111 (Connection refused)
-[2023-04-03 22:38:09] [info] Error getting remote endpoint: asio.system:107 (Transport endpoint is not connected)
-[2023-04-03 22:38:09] [error] handle_connect error: Connection refused
-[mp3 @ 0x7f3300002990] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7f330002f7d0] Could not update timestamps for skipped samples.
-[mp3 @ 0x7f32f4002690] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7f32f40120f0] Could not update timestamps for skipped samples.
+[2023-04-09 00:30:56] [info] asio async_connect error: asio.system:111 (Connection refused)
+[2023-04-09 00:30:56] [info] Error getting remote endpoint: asio.system:107 (Transport endpoint is not connected)
+[2023-04-09 00:30:56] [error] handle_connect error: Connection refused
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+TagLib: ID3v2.4 no longer supports the frame type TDAT.  It will be discarded from the tag.
+[opus @ 0x7f4e6c052550] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e6c068fd0] Could not update timestamps for skipped samples.
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
 pulse_blocking_stream: CHECK_VALIDITY dir
@@ -22,12 +32,18 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3 @ 0x7f32e8002700] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7f32e802d2d0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7f32f40120f0] Could not update timestamps for discarded samples.
-[mp3float @ 0x7f32e802d2d0] Could not update timestamps for discarded samples.
-[2023-04-03 23:17:44] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
+[opus @ 0x7f4e5c052350] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e60052460] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e6c06a3a0] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e5c051a50] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e60064420] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e6c06b070] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e5c0126e0] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e600106f0] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e6c06eb80] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e5c04ee50] Could not update timestamps for skipped samples.
+[opus @ 0x7f4e60062790] Could not update timestamps for skipped samples.
+[2023-04-09 00:31:35] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
 PulseOut: destroy
 PulseOut: destructor
 PulseOut: closing device
