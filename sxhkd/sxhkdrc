@@ -1,0 +1,30 @@
+alt + Escape
+	pkill -USR1 -x sxhkd
+ 
+# quit or restart bspwm
+alt + shift + {q,r}
+	bspc {quit,wm -r}
+ 
+# create a new terminal window or swap the current one to the biggest one in the screen 
+alt + {_,shift + }Return
+	{st, bspc node -s biggest.local}
+ 
+# close or kill a window
+alt + {_,shift + }c
+	bspc node -{k,c}
+
+# rofi
+alt + d
+  rofi -show drun -show-icons 
+
+# change the window state
+alt + {t,ctrl + t,l,f}
+	bspc node -t {tiled,pseudo_tiled,floating,fullscreen}
+ 
+# expand a window by moving one of its side outward
+super + alt + {h,j,k,l}
+	bspc node -z {left -20 0,bottom 0 20,top 0 -20,right 20 0}
+ 
+# focus or send a window to the given desktop
+alt + {_,shift + }{1-9,0}
+	bspc {desktop -f,node -d} '^{1-9

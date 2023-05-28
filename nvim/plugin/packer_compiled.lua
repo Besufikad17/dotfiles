@@ -124,6 +124,21 @@ _G.packer_plugins = {
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/cmp_luasnip",
     url = "https://github.com/saadparwaiz1/cmp_luasnip"
   },
+  ["coc-go"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/coc-go",
+    url = "https://github.com/josa42/coc-go"
+  },
+  ["coc-prisma"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/coc-prisma",
+    url = "https://github.com/pantharshit00/coc-prisma"
+  },
+  ["coc.nvim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/coc.nvim",
+    url = "https://github.com/neoclide/coc.nvim"
+  },
   ["darkplus.nvim"] = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/darkplus.nvim",
@@ -264,6 +279,16 @@ _G.packer_plugins = {
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
     url = "https://github.com/folke/tokyonight.nvim"
   },
+  ["transparent.nvim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/transparent.nvim",
+    url = "https://github.com/xiyaowong/transparent.nvim"
+  },
+  ["typescript-vim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/typescript-vim",
+    url = "https://github.com/leafgarland/typescript-vim"
+  },
   undotree = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/undotree",
@@ -278,6 +303,36 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-illuminate",
     url = "https://github.com/RRethy/vim-illuminate"
+  },
+  ["vim-javascript"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-javascript",
+    url = "https://github.com/pangloss/vim-javascript"
+  },
+  ["vim-jsx-typescript"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-jsx-typescript",
+    url = "https://github.com/peitalin/vim-jsx-typescript"
+  },
+  ["vim-prisma"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-prisma",
+    url = "https://github.com/prisma/vim-prisma"
+  },
+  ["vim-styled-components"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-styled-components",
+    url = "https://github.com/styled-components/vim-styled-components"
+  },
+  ["vim-tsx"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-tsx",
+    url = "https://github.com/ianks/vim-tsx"
+  },
+  ["vim-wakatime"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-wakatime",
+    url = "https://github.com/wakatime/vim-wakatime"
   }
 }
 

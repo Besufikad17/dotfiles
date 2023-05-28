@@ -114,6 +114,11 @@ return packer.startup(function(use)
   use { "neoclide/coc.nvim" }
   use { "wakatime/vim-wakatime" }
   use { "josa42/coc-go" }
+  use { "pantharshit00/coc-prisma" }
+  use { "prisma/vim-prisma" }
+
+  -- transparency
+  use { "xiyaowong/transparent.nvim" }
 
  -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
