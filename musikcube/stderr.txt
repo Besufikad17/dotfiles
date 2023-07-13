@@ -5,11 +5,342 @@ AlsaOut: joining...
 AlsaOut: thread finished
 AlsaOut: closing device...
 AlsaOut: destroyed.
-[2023-05-26 21:09:31] [info] asio async_connect error: asio.system:111 (Connection refused)
-[2023-05-26 21:09:31] [info] Error getting remote endpoint: asio.system:107 (Transport endpoint is not connected)
-[2023-05-26 21:09:31] [error] handle_connect error: Connection refused
-[mp3float @ 0x7fe61c00e0a0] Could not update timestamps for skipped samples.
-[mov,mp4,m4a,3gp,3g2,mj2 @ 0x7fe6080026c0] Protocol name not provided, cannot determine if input is local or a network protocol, buffers and access patterns cannot be configured optimally without knowing the protocol
+[2023-03-13 03:01:26] [info] asio async_connect error: asio.system:111 (Connection refused)
+[2023-03-13 03:01:26] [info] Error getting remote endpoint: asio.system:107 (Transport endpoint is not connected)
+[2023-03-13 03:01:26] [error] handle_connect error: Connection refused
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: ID3v2::Tag::read() - Duplicate ID3v2 tags found.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+[mp3float @ 0x7f14f000e160] Could not update timestamps for skipped samples.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+AlsaOut::AlsaOut() called
+PulseOut::PulseOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+AlsaOut::AlsaOut() called
+PulseOut::PulseOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+TagLib: Vorbis::File::read() - Could not find the Vorbis comment header.
+AlsaOut::AlsaOut() called
+PulseOut::PulseOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+AlsaOut::AlsaOut() called
+PulseOut::PulseOut() called
+AlsaOut: destructor
+AlsaOut: joining...
+AlsaOut: thread finished
+AlsaOut: closing device...
+AlsaOut: destroyed.
+PulseOut: destroy
+PulseOut: destructor
+PulseOut: destroy
+PulseOut: destructor
+[mp3 @ 0x7f14e40031f0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+[mp3float @ 0x7f14e4011070] Could not update timestamps for skipped samples.
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
 pulse_blocking_stream: CHECK_VALIDITY dir
@@ -18,35 +349,18 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[opus @ 0x7fe5f8052130] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe620001450] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+[mp3 @ 0x7f150000b7e0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
 Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe62002dbb0] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe6080071d0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+[mp3float @ 0x7f15000797f0] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f1504021680] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
 Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6080268f0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe62002dbb0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe6200132f0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+[mp3float @ 0x7f1504075430] Could not update timestamps for skipped samples.
+[mp3 @ 0x7f14e401cae0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
 Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe62002ebd0] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe60804b1f0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe60804a770] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe620014870] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe620031f20] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe5f80517f0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe5f8003180] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe6080071d0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe608006460] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe620015400] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe62002d150] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe5f80144e0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe5f8041830] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f14e4076280] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f1504075430] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f14e4076280] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f14e4075180] Could not update timestamps for skipped samples.
 PulseOut: closing device
 PulseOut: opening device 
 pulse_blocking_stream: CHECK_VALIDITY server
@@ -56,117 +370,26 @@ pulse_blocking_stream: CHECK_VALIDITY spec
 pulse_blocking_stream: CHECK_VALIDITY channel map
 pulse_blocking_stream: context is ready
 pulse_blocking_stream: stream is ready
-[mp3 @ 0x7fe620013240] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe620053650] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe5f8041830] Could not update timestamps for discarded samples.
-[mp3float @ 0x7fe620053650] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe620014640] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe62002cb20] Could not update timestamps for skipped samples.
-PulseOut: closing device
-PulseOut: opening device 
-pulse_blocking_stream: CHECK_VALIDITY server
-pulse_blocking_stream: CHECK_VALIDITY dir
-pulse_blocking_stream: CHECK_VALIDITY device
-pulse_blocking_stream: CHECK_VALIDITY spec
-pulse_blocking_stream: CHECK_VALIDITY channel map
-pulse_blocking_stream: context is ready
-pulse_blocking_stream: stream is ready
-[mp3 @ 0x7fe5f8001590] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe5f801f5b0] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe6200176e0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6200333c0] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe5f8013ee0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe5f801fdf0] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe60804bd90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe60801b160] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6200340f0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe60801b160] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe608000bc0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6080189c0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe6200340f0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe62002bfe0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe6080189c0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe60804d490] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6080122f0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe62002bfe0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe620034790] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe6080122f0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe6080008e0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe60800b800] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe620034790] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe620034de0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe60800b800] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe60804b420] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe608026d40] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe620034de0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6200362f0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe608026d40] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe6080134d0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe608025d10] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe6200362f0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6200366b0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe608025d10] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe6080023e0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6080282e0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe6200366b0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe620037b50] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe6080282e0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe608000bc0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe60800aef0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe620037b50] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe620029820] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe60800aef0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe608000bc0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe608028730] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe5f80149a0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe5f801eda0] Could not update timestamps for skipped samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6200025d0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe5f801eda0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe5f8051930] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe5f8021560] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe6200025d0] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe620006f90] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe6200381f0] Could not update timestamps for skipped samples.
-[mp3float @ 0x7fe5f8021560] Could not update timestamps for discarded samples.
-[mp3 @ 0x7fe5f80036a0] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
-Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
-[mp3float @ 0x7fe5f804d0e0] Could not update timestamps for skipped samples.
-[2023-05-26 23:26:03] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
+[mp3float @ 0x7f150401d7f0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f14e4075180] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f14e401efd0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f150401d7f0] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f150401f1a0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f14e401efd0] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f14e4003bf0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f150401f1a0] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f150401cd40] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f14e4003bf0] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f14e4003790] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f150401cd40] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f150401f560] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f14e4003790] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f14e4075540] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f150401f560] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f15040152f0] Could not update timestamps for skipped samples.
+[mp3float @ 0x7f14e4075540] Could not update timestamps for discarded samples.
+[mp3float @ 0x7f14e400f940] Could not update timestamps for skipped samples.
+[2023-07-09 19:36:54] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
 PulseOut: destroy
 PulseOut: destructor
 PulseOut: closing device

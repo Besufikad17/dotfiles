@@ -1,0 +1,9 @@
+set recolor "true"
+set default-bg rgba(0,0,0,0.7)
+set recolor-lightcolor rgba(0,0,0,0)
+set adjust-open "width"
+
+ map <C-i> zoom in
+ map <C-o> zoom out
+ map <C-c> copy
+

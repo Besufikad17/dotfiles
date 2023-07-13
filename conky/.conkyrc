@@ -35,22 +35,47 @@ override_utf8_locale yes
 use_spacer yes
 
 
+
 minimum_size 0 0
 
-# This is the default "Gotham" conky clock that comes with the
-# conky-manager package.
-# It has been adapted to use Gruvbox colorscheme and
-# use a slightly smaller font-size.
+# For those who may be hacking into this, positioning is not very fun in conky.
+# or maybe I just don't get it!?
 #
-# (From the next line down, #WhiteSpaceMatters) ...
+# The way this works here is every line is a line painted on the screen!
+# For example, to remove the 4 lines about disk space entirely, you would need to remove
+# only half of each of the 4 lines, because the lines are being shared
+# with the processes/CPU information!
+#
+# And ${goto <number>} is a hard 'anchor' of where to display the text
+# that follows.
+#
+# And ${offset <number>} is a relative offset from whatever comes before it.
+# And the entire thing is relative to the 'alignment top_left' setting above!
+#
+# This seems like an insane method for position things on a screen.
+# I hope there is a better way of doing this in the future or 
+# I may be unaware of it! If you use this and make any improvemenmts, 
+# please share it with me! <sch@efers.org>
+#
+# (Remember, from the next line down, #WhiteSpaceMatters) ...
 TEXT
-${voffset 10}${color EBDBB2}${font GE Inspira:pixelsize=120}${time %I:%M}${font}${voffset -84}${offset 10}${color 98971A}${font GE Inspira:pixelsize=40}${time %d} ${voffset -15}${color D79921}${font GE Inspira:pixelsize=22}${time  %B} ${time %Y}${color CC241D}${font}${voffset 24}${font GE Inspira:pixelsize=45}${offset -148}${time %A}${font}
+
+#conky sucks
+${voffset 105}
+${goto 12}${font Hack:pixelsize=12}${color D79921}CPU${offset 9}${color EDBBB2}${cpu cpu0}%${goto 112}${color D79921}RAM${offset 9}${color EDBBB2}$mem / $memmax${goto 301}${color D79921}HD${offset 9}${color EDBBB2}Avail / Total
+${font Hack:pixelsize=10}${goto 12}${color EDBBB2}01. ${color 98971A}${top name 1}${goto 120}${top cpu 1}% / ${top mem_res 1}${goto 301}${font Hack:pixelsize=10}${color EDBBB2}/${goto 340}${color 98971A}${fs_free /} ${goto 400}/ ${fs_size /}
+${goto 12}${color EDBBB2}02. ${color D79921}${top name 2}${goto 120}${top cpu 2}% / ${top mem_res 2}${goto 301}${font Hack:pixelsize=10}${color EDBBB2}/boot${goto 340}${color D79921}${fs_free /boot}${goto 400}/ ${fs_size /boot}
+${goto 12}${color EDBBB2}03. ${color CC241D}${top name 3}${goto 120}${top cpu 3}% / ${top mem_res 3}${goto 301}${font Hack:pixelsize=10}${color EDBBB2}/home${goto 340}${color CC241D}${fs_free /home}${goto 400}/ ${fs_size /home}
+${goto 12}${color EDBBB2}04. ${color 458588}${top name 4}${goto 120}${top cpu 4}% / ${top mem_res 4}
+${goto 12}${color EDBBB2}05. ${color B16286}${top name 5}${goto 120}${top cpu 5}% / ${top mem_res 5}
 
 
 
-# conkysucks
-#white ${color EDBBB2}
+
+
 #green ${color 98971A}
 #yllw ${color D79921}
 #red ${color CC241D}
 #purple ${color B16286}
+#blue ${color 458588} 
+# conky sucks a lot

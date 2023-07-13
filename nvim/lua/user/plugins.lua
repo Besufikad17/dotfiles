@@ -62,7 +62,7 @@ return packer.startup(function(use)
   use { "windwp/nvim-ts-autotag" }
   use { "theprimeagen/harpoon" }
   use { "mbbill/undotree" }
-
+ 
   -- Colorschemes
   use { "EdenEast/nightfox.nvim" }
   use { "folke/tokyonight.nvim" }
@@ -116,9 +116,23 @@ return packer.startup(function(use)
   use { "josa42/coc-go" }
   use { "pantharshit00/coc-prisma" }
   use { "prisma/vim-prisma" }
+  use { 'dart-lang/dart-vim-plugin' }
+  use { 'thosakwe/vim-flutter' }
+  use { 'natebosch/vim-lsc' }
+  use { 'natebosch/vim-lsc-dart'}
+  use {"ellisonleao/glow.nvim", config = function() require("glow").setup() end}
+  use {
+    "williamboman/mason.nvim",
+    "williamboman/mason-lspconfig.nvim",
+    "neovim/nvim-lspconfig",
+  }
 
   -- transparency
   use { "xiyaowong/transparent.nvim" }
+  
+  -- linting
+  use { 'jose-elias-alvarez/null-ls.nvim'}
+  use { 'MunifTanjim/eslint.nvim'}
 
  -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
