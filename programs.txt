@@ -42,3 +42,4 @@ mpv
 obs
 picom
 vlc
+xampp
