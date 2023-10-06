@@ -6,7 +6,7 @@ window:
     x: 7
     y: 5
 
-  opacity: 0.8    
+  opacity: 0.9 
 scrolling:
   history: 10000
   multiplier: 3
@@ -14,8 +14,8 @@ scrolling:
 colors:
   # Default colors
   primary:
-    background: "0x141617"
-    foreground: "0xd5c4a1"
+    background: "#282828"
+    foreground: "#ebdbb2"
 
   # Colors the cursor will use if `custom_cursor_colors` is true
   cursor:
@@ -35,30 +35,30 @@ colors:
 
   # Bright colors
   bright:
-    black: "0x665c54"
+    black: "0x1d2021"
     red: "0xfb4934"
     green: "0xb8bb26"
     yellow: "0xfabd2f"
     blue: "0x83a598"
     magenta: "0xd3869b"
     cyan: "0x8ec07c"
-    white: "0xfbf1c7"
+    white: "0xd5c4a1" 
 
 font:
   normal:
-    family: Monospace
+    family: Iosevka Nerd Font
     style: Regular
 
   bold:
-    family: Monospace
+    family: Iosevka Nerd Font 
     style: Bold
 
   italic:
-    family: Monospace
+    family: Iosevka Nerd Font 
     style: Italic
 
   bold_italic:
-    family: Monospace
+    family: Iosevka Nerd Font
     style: Bold Italic
 
   size: 11

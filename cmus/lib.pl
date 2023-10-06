@@ -1,115 +1,102 @@
-/home/bes/Music/the-weeknd/The Weeknd - Party Monster.m4a
-/home/bes/Music/the-weeknd/The_weeknd_playlist_nlQwtw6WiQY_250.ogg
-/home/bes/Music/this_is_travis_scott/LIL_SKIES_Boss_Up_prod_Aguafina_Official_Audio_judtf7o3SOM_140.mp3
-/home/bes/Music/this_is_travis_scott/Go Legend - Big Sean.mp3
-/home/bes/Music/this_is_travis_scott/Flocky Flocky (feat. Travis Scott) - Don Toliver.mp3
-/home/bes/Music/the-weeknd/07. Drake - Crew Love.mp3
-/home/bes/Music/this_is_travis_scott/Goodbye Kumiko - Bicycle Waltz.mp3
-/home/bes/Music/this_is_travis_scott/Black   Chinese - Huncho Jack.mp3
-/home/bes/Music/this_is_travis_scott/Motorcycle Patches - Huncho Jack.mp3
-/home/bes/Music/this_is_travis_scott/Saint - Huncho Jack.mp3
-/home/bes/Music/this_is_travis_scott/Sky Walker (feat. Travis Scott) - Miguel.mp3
-/home/bes/Music/this_is_travis_scott/Mika Hirama - Paradisus-Paradoxum (第14,17,19,20,23話 OP).mp3
-/home/bes/Music/this_is_travis_scott/Champion - NAV.mp3
-/home/bes/Music/this is powfu/a castle by the sea - Powfu.mp3
-/home/bes/Music/this is powfu/All Again - Powfu.mp3
-/home/bes/Music/this is powfu/a world of chaos (feat. Ivri) - Powfu.mp3
-/home/bes/Music/this is powfu/Blue Waves - Powfu.mp3
-/home/bes/Music/this is powfu/Days We Had - Powfu.mp3
-/home/bes/Music/this is powfu/Different Class, Same Boat - Powfu.mp3
-/home/bes/Music/this is powfu/don t fall asleep yet - Powfu.mp3
-/home/bes/Music/this is powfu/future diary - Powfu.mp3
-/home/bes/Music/this is powfu/Hear my thoughts - Powfu.mp3
-/home/bes/Music/this is powfu/I Can t Sleep (feat. Sarcastic Sounds) - Powfu.mp3
-/home/bes/Music/this is powfu/I Could Never Be Loved - Powfu.mp3
-/home/bes/Music/this is powfu/ill come back to you - Powfu.mp3
-/home/bes/Music/this is powfu/im used to it - Powfu.mp3
-/home/bes/Music/this is powfu/Laying on my porch while we watch the world end. - Powfu.mp3
-/home/bes/Music/this is powfu/Letters in December - Powfu.mp3
-/home/bes/Music/this is powfu/Mindurmanners - Powfu.mp3
-/home/bes/Music/this is powfu/no promises - Powfu.mp3
-/home/bes/Music/this is powfu/Scars on My Heart (feat. SadBoyProlific) - Powfu.mp3
-/home/bes/Music/this is powfu/snowflake (feat. Jaden   Sarcastic Sounds) - Powfu.mp3
-/home/bes/Music/this is powfu/soda stream sky - Powfu.mp3
-/home/bes/Music/this is powfu/Sorry I Never Apologized (feat. Two 22) - Powfu.mp3
-/home/bes/Music/this is powfu/stay4ever - Powfu.mp3
-/home/bes/Music/this is powfu/step into my life (feat. sleep.ing) - Powfu.mp3
-/home/bes/Music/this is powfu/the fire in your eyes keeps me warm - Powfu.mp3
-/home/bes/Music/this is powfu/the long way home - Powfu.mp3
-/home/bes/Music/this is powfu/The Story of the Paper Boy - Powfu.mp3
-/home/bes/Music/this is powfu/the way that you see me (feat. Ayleen Valentine) - Powfu.mp3
-/home/bes/Music/this is powfu/when the hospital was my home - Powfu.mp3
-/home/bes/Music/this is powfu/when things were awkward - Powfu.mp3
-/home/bes/Music/this is powfu/Would Look Perfect (feat. Rxseboy) - Powfu.mp3
-/home/bes/Music/this is powfu/I Know You re Not Happy - Powfu.mp3
-/home/bes/Music/this is powfu/Dead Eyes - Promoting Sounds.mp3
-/home/bes/Music/this is powfu/I m So Good at Lying (feat. Powfu   Thomas Reid) - Rxseboy.mp3
-/home/bes/Music/this is powfu/When We Were 16 (feat. Powfu   Mishaal) - Rxseboy.mp3
-/home/bes/Music/this is powfu/Eyes Blue Like The Atlantic, Pt. 2 (feat. Powfu, Alec Benjam.mp3
-/home/bes/Music/this is powfu/Alienated - sleep.ing.mp3
-/home/bes/Music/this is powfu/the day i died (feat. Powfu) - The Bootleg Boy.mp3
-/home/bes/Music/this_is_travis_scott/THE SCOTTS - THE SCOTTS.mp3
-/home/bes/Music/the-weeknd/A Tale By Quincy.mp3
-/home/bes/Music/the-weeknd/Here We Go_ Again.mp3
-/home/bes/Music/the-weeknd/I Heard You_re Married.mp3
-/home/bes/Music/the-weeknd/Sacrifice.mp3
-/home/bes/Music/the-weeknd/4_5767093845242152061.m4a
-/home/bes/Music/the-weeknd/The Weeknd (13).mp3
-/home/bes/Music/the-weeknd/01 Starboy (feat. Daft Punk).mp3
-/home/bes/Music/the-weeknd/03 False Alarm.mp3
-/home/bes/Music/the-weeknd/05 Rockin_.mp3
-/home/bes/Music/the-weeknd/06 Secrets.mp3
-/home/bes/Music/the-weeknd/07 True Colors.mp3
-/home/bes/Music/the-weeknd/09 Sidewalks (feat. Kendrick Lamar).mp3
-/home/bes/Music/the-weeknd/10 Six Feet Under.mp3
-/home/bes/Music/the-weeknd/11 Love To Lay.mp3
-/home/bes/Music/the-weeknd/12 A Lonely Night.mp3
-/home/bes/Music/the-weeknd/10. The Weeknd - Try Me.mp3
-/home/bes/Music/the-weeknd/11. The Weeknd - House Of Balloons _ Glass Table Girls (Album Version Explicit).mp3
-/home/bes/Music/the-weeknd/12. The Weeknd - Often.mp3
-/home/bes/Music/the-weeknd/18. The Weeknd - The Zone (Album Version Explicit).mp3
-/home/bes/Music/the-weeknd/Dawn FM.mp3
-/home/bes/Music/the-weeknd/Gasoline.mp3
-/home/bes/Music/the-weeknd/How Do I Make You Love Me.mp3
-/home/bes/Music/the-weeknd/Take My Breath.mp3
-/home/bes/Music/the-weeknd/Out of Time.mp3
-/home/bes/Music/the-weeknd/Best Friends.mp3
-/home/bes/Music/the-weeknd/Is There Someone Else.mp3
-/home/bes/Music/the-weeknd/Starry Eyes.mp3
-/home/bes/Music/the-weeknd/Every Angel is Terrifying.mp3
-/home/bes/Music/the-weeknd/Don_t Break My Heart.mp3
-/home/bes/Music/the-weeknd/Less Than Zero.mp3
-/home/bes/Music/this is powfu/Are You Okay  (feat. Powfu) - Thomas Reid.mp3
-/home/bes/Music/this_is_travis_scott/3500 - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/5% TINT - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/90210 - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/Antidote - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/ASTROTHUNDER - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/A-Team - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/beibs in the trap - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/BUTTERFLY EFFECT - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/CAN T SAY - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/CAROUSEL - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/COFFEE BEAN - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/coordinate - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/ESCAPE PLAN - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/FRANCHISE (feat. Future, Young Thug   M.I.A.) (REMIX) - Trav.mp3
-/home/bes/Music/this_is_travis_scott/HIGHEST IN THE ROOM - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/HOUSTONFORNICATION - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/MAFIA - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/Nightcrawler - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/NO BYSTANDERS - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/pick up the phone - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/R.I.P. SCREW - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/SICKO MODE - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/SKELETONS - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/STARGAZING - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/STOP TRYING TO BE GOD - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/through the late night - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/WAKE UP - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/way back - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/WHO  WHAT! - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/wonderful - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/YOSEMITE - Travis Scott.mp3
-/home/bes/Music/this_is_travis_scott/9. Travis Scott - goosebumps (128).mp3
-/home/bes/Music/this_is_travis_scott/1. Travis Scott - The Plan (From the Motion Picture  TENET ).mp3
+/home/bes/Music/10. Future - Realer N Realer.mp3
+/home/bes/Music/10. Playboi Carti - Fell In Luv (feat. Bryson Tiller).mp3
+/home/bes/Music/11. A$AP Mob - Frat Rules (feat. A$AP Rocky, Playboi Carti & Big Sean).mp3
+/home/bes/Music/11. Machine Gun Kelly - my ex's best friend (with blackbear).mp3
+/home/bes/Music/11. Playboi Carti - Foreign.mp3
+/home/bes/Music/11. Travis Scott - TOPIA TWINS (feat. Rob49 & 21 Savage).mp3
+/home/bes/Music/12. Baby Keem - ORANGE SODA.mp3
+/home/bes/Music/12. Don Toliver - Givin’ Up (Not The One) (Don Toliver & 21 Savage, 2 Chainz).mp3
+/home/bes/Music/12. Metro Boomin - Walk Em Down (Don't Kill Civilians) [with 21 Savage & feat. Mustafa].mp3
+/home/bes/Music/12. Travis Scott - CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee).mp3
+/home/bes/Music/12. Yung Lean - Iceheart.mp3
+/home/bes/Music/13. Playboi Carti - New N3on.mp3
+/home/bes/Music/14. Madvillain - Figaro.mp3
+/home/bes/Music/14. Playboi Carti - FlatBed Freestyle.mp3
+/home/bes/Music/14. Travis Scott - SKITZO (feat. Young Thug).mp3
+/home/bes/Music/15. Playboi Carti - No Time (feat. Gunna).mp3
+/home/bes/Music/16. Madvillain - Strange Ways.mp3
+/home/bes/Music/17. Madvillain - Fancy Clown.mp3
+/home/bes/Music/18. Playboi Carti - R.I.P. Fredo (feat. Young Nudy) - Notice Me.mp3
+/home/bes/Music/1. Cordae - Two Tens (feat. Anderson .Paak).mp3
+/home/bes/Music/1. Drake - Rich Flex.mp3
+/home/bes/Music/1. EKKSTACY - f_ck everything! - Spotify Singles (feat. The Drums).mp3
+/home/bes/Music/1. Frank Ocean - In My Room.mp3
+/home/bes/Music/1. Lil Peep - Light Show.mp3
+/home/bes/Music/1. Metro Boomin - Annihilate (Spider-Man_ Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset).mp3
+/home/bes/Music/2. 21 Savage - Runnin.mp3
+/home/bes/Music/2_5332778179515921665.mp4
+/home/bes/Music/2. Kendrick Lamar - N95.mp3
+/home/bes/Music/2. Madvillain - Accordion.mp3
+/home/bes/Music/2. Metro Boomin - Superhero (Heroes & Villains) [with Future & Chris Brown].mp3
+/home/bes/Music/303411718.mp4
+/home/bes/Music/3. Kendrick Lamar - Silent Hill.mp3
+/home/bes/Music/3. Lil Peep - Glassy.mp3
+/home/bes/Music/3. Lil Wayne - Dedicate.mp3
+/home/bes/Music/3. Madvillain - Meat Grinder.mp3
+/home/bes/Music/3. Metro Boomin - Too Many Nights (feat. Don Toliver & with Future).mp3
+/home/bes/Music/3. Playboi Carti - Lean 4 Real (feat. Skepta).mp3
+/home/bes/Music/3. XXXTENTACION - Moonlight.mp3
+/home/bes/Music/4. Kanye West - I Wonder.mp3
+/home/bes/Music/4. Offset - Danger (Spider) (Offset & JID).mp3
+/home/bes/Music/5. Lil Duke - On My Vibe (Feat. Travi$ Scott).mp3
+/home/bes/Music/5. Lil Peep - Leanin'.mp3
+/home/bes/Music/5. Metro Boomin - Hummingbird (Metro Boomin & James Blake).mp3
+/home/bes/Music/6. Metro Boomin - Trance (with Travis Scott & Young Thug).mp3
+/home/bes/Music/6. Travis Scott - SIRENS.mp3
+/home/bes/Music/7. EI8HT - Silk & Cologne (EI8HT & Offset) - Spider-Verse Remix.mp3
+/home/bes/Music/7. Lil Peep - Life is Beautiful.mp3
+/home/bes/Music/7. Travis Scott - MELTDOWN (feat. Drake).mp3
+/home/bes/Music/8. Travis Scott - FE!N (feat. Playboi Carti).mp3
+/home/bes/Music/9. Don Toliver - Private Landing (feat. Justin Bieber & Future).mp3
+/home/bes/Music/9. Madvillain - Curls.mp3
+/home/bes/Music/9. Metro Boomin - Self Love (Spider-Man_ Across the Spider-Verse) (Metro Boomin & Coi Leray).mp3
+/home/bes/Music/Hers Invitation to hers/10. Her's - Don't Think It Over.mp3
+/home/bes/Music/Hers Invitation to hers/11. Her's - Under Wraps.mp3
+/home/bes/Music/Hers Invitation to hers/1. Her's - Harvey.mp3
+/home/bes/Music/Hers Invitation to hers/2. Her's - Mannie's Smile.mp3
+/home/bes/Music/Hers Invitation to hers/3. Her's - If You Know What's Right.mp3
+/home/bes/Music/Hers Invitation to hers/4. Her's - Carry the Doubt.mp3
+/home/bes/Music/Hers Invitation to hers/5. Her's - Low Beam.mp3
+/home/bes/Music/Hers Invitation to hers/6. Her's - Breathing Easy.mp3
+/home/bes/Music/Hers Invitation to hers/7. Her's - Blue Lips.mp3
+/home/bes/Music/Hers Invitation to hers/8. Her's - She Needs Him.mp3
+/home/bes/Music/Hers Invitation to hers/9. Her's - Love on the Line (Call Now).mp3
+/home/bes/Music/Nirvana MTV unplugged/10. Nirvana - Plateau - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/11. Nirvana - Oh Me - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/12. Nirvana - Lake Of Fire - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/13. Nirvana - All Apologies - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/14. Nirvana - Where Did You Sleep Last Night - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/1. Nirvana - About A Girl - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/2. Nirvana - Come As You Are - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/3. Nirvana - Jesus Doesn't Want Me For A Sunbeam - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/4. Nirvana - The Man Who Sold The World - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/5. Nirvana - Pennyroyal Tea - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/6. Nirvana - Dumb - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/7. Nirvana - Polly - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/8. Nirvana - On A Plain - Live.mp3
+/home/bes/Music/Nirvana MTV unplugged/9. Nirvana - Something In The Way - Live.mp3
+/home/bes/Music/Californication_Soundtrack_Hank_s_Theme_e31UblqR0P0_140.mp3
+/home/bes/Music/Playboi_Carti_feat._Charli_XCX_FEMME_uvXQclAZufU_140.mp3
+/home/bes/Music/Playboi_Carti_feat._Charli_XCX_Slay3r_Cl4ws_PHILNDqswZI_140.mp3
+/home/bes/Music/aftertheparty - numb [Bass Boosted] VPbAtF3_xWw.m4a
+/home/bes/Music/Anime Word VS - Death Note OP 1 [NC] 8QE9cmfxx4s.m4a
+/home/bes/Music/BrosZZ  - Shiloh Dynasty- long nights MbRW3nDcyTE.m4a
+/home/bes/Music/But You Love Somebody else ft_ Shiloh Dynasty -  QPa69T7L1JA.m4a
+/home/bes/Music/DEMONS - BLACKBEAR _ XXXTENTACION (Lyric Video) cdpco5pAUTY.m4a
+/home/bes/Music/Destroy Lonely - NOSTYLIST.mp3
+/home/bes/Music/[FREE] Drake x Logic Type Beat - _JESTER_ _ A_AP NSwKv566I1Q.m4a
+/home/bes/Music/2. Illuminate - Taxi Man (320).mp3
+/home/bes/Music/JACKBOYS _ Travis Scott feat_ Young Thug - OUT W qAlF70MdfwU.m4a
+/home/bes/Music/lil peep - star shopping [lo-fi _ chill] (sub_ e 3ImOmQ-7FHE.m4a
+/home/bes/Music/lil peep - text me (sub_ espaol) (ft_ young era) 1RkWCeVtJlo.m4a
+/home/bes/Music/Lil Peep - Nineteen Lyrics L7rl_2YKUMo.m4a
+/home/bes/Music/Lil Tecca - Shots (Official Music Video) bbQ8I-ztij8.m4a
+/home/bes/Music/Logic - Icy ft_ Gucci Mane nP8dkzn8vmE.m4a
+/home/bes/Music/Sadness Simpson -   ft  Shiloh Dynasty EP_MQhF3dlc.m4a
+/home/bes/Music/Shiloh - Losing Interest (Lyrics) HC6xx-GxlUY.m4a
+/home/bes/Music/Shiloh Dynasty - Downtown nhz_iySlf08.m4a
+/home/bes/Music/Tekikatoka - Japanese Trap_Rap Playlist (Takayan pE-dkFVYsow.m4a
+/home/bes/Music/Toshiki Kadomatsu - After 5 Crash _ Tokyo Tower _ Hatsukoi.mp3
+/home/bes/Music/Travis Scott - FE!N.mp3
+/home/bes/Music/Xxxtentacion - Hi Wendy!.mp3
+/home/bes/Music/XXXTENTACION - Uno Dos Tres kcfuMsI7GCM.m4a

@@ -1,0 +1,1679 @@
+{
+    "actionFavoritesAdd": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFavoritesOrganize": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileClose": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+W",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileExit": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+X",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileExportEncode": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "F12",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileLoadSubtitle": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+L",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileOpen": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+O",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileOpenDevice": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+V",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileOpenDirectory": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileOpenDvdbd": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+D",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileOpenNetworkStream": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileOpenQuick": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Q",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileProperties": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Shift+F10",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileRecentClear": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSaveCopy": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSaveImage": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+I",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSaveImageAuto": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "F5",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSavePlainImage": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+Shift+I",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSavePlainImageAuto": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Shift+F5",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSaveSubtitle": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+S",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSaveThumbnails": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSaveWindowImage": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Alt+I",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSaveWindowImageAuto": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+F5",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSubtitleDatabaseDownload": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "D",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSubtitleDatabaseSearch": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionFileSubtitleDatabaseUpload": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionHelpAbout": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionHelpAboutQt": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionHelpHomepage": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionNavigateChaptersNext": {
+        "fullscreen": {
+            "button": 6,
+            "mod": 0,
+            "press": 0
+        },
+        "keys": "PgDown",
+        "windowed": {
+            "button": 6,
+            "mod": 0,
+            "press": 0
+        }
+    },
+    "actionNavigateChaptersPrevious": {
+        "fullscreen": {
+            "button": 5,
+            "mod": 0,
+            "press": 0
+        },
+        "keys": "PgUp",
+        "windowed": {
+            "button": 5,
+            "mod": 0,
+            "press": 0
+        }
+    },
+    "actionNavigateGoto": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+G",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionNavigateMenuAngle": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionNavigateMenuAudio": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionNavigateMenuChapter": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionNavigateMenuRoot": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+R",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionNavigateMenuSubtitle": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionNavigateMenuTitle": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+T",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterAlwaysExit": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterAlwaysNext": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterAlwaysNothing": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterAlwaysRepeat": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterOnceExit": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterOnceHibernate": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterOnceLock": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterOnceLogoff": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterOnceNothing": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterOnceRepeat": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterOnceShutdown": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayAfterOnceStandby": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayFrameBackward": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Left",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayFrameForward": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Right",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayLoopClear": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Backspace",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayLoopEnd": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+End",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayLoopStart": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Home",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayLoopUse": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Backspace",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayPause": {
+        "fullscreen": {
+            "button": 2,
+            "mod": 0,
+            "press": 0
+        },
+        "keys": "Space",
+        "windowed": {
+            "button": 2,
+            "mod": 0,
+            "press": 0
+        }
+    },
+    "actionPlayRateDecrease": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Down",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayRateIncrease": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Up",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayRateReset": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+R",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaySeekBackwards": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Left",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaySeekBackwardsFine": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Shift+Left",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaySeekForwards": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Right",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaySeekForwardsFine": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Shift+Right",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayStop": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": ".",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaySubtitlesCopy": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+S",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaySubtitlesEnabled": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaySubtitlesNext": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "S",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaySubtitlesPrevious": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Shift+S",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayVolumeDown": {
+        "fullscreen": {
+            "button": 1,
+            "mod": 0,
+            "press": 0
+        },
+        "keys": "9",
+        "windowed": {
+            "button": 1,
+            "mod": 0,
+            "press": 0
+        }
+    },
+    "actionPlayVolumeMute": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+M",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlayVolumeUp": {
+        "fullscreen": {
+            "button": 1,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "0",
+        "windowed": {
+            "button": 1,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistCloseTab": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Shift+W",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistCopy": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Shift+C",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistCopyQueue": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Alt+C",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistDuplicateTab": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Shift+D",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistExport": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Shift+S",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistExtraDecrement": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Shift+E",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistExtraIncrement": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "E",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistExtraZero": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+E",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistFinishSearching": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Esc",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistImport": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Shift+O",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistNewTab": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Shift+T",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistPaste": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Shift+V",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistPasteQueue": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Alt+V",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistPlayCurrent": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Return",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistQueueVisible": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+Shift+Q",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistQuickQueue": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Q",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistSearch": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+F",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionPlaylistShowQuickQueue": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+`",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewFullscreen": {
+        "fullscreen": {
+            "button": 2,
+            "mod": 0,
+            "press": 2
+        },
+        "keys": "Alt+Return",
+        "windowed": {
+            "button": 2,
+            "mod": 0,
+            "press": 2
+        }
+    },
+    "actionViewFullscreenEscape": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "`",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideCapture": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+8",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideControls": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+2",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideInformation": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+3",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideLibrary": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+=",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideLog": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+-",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideMenu": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+0",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideNavigation": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+9",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHidePlaylist": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+7",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideSeekbar": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+1",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideStatistics": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+4",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideStatus": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+5",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewHideSubresync": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+6",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOSDCycle": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+J",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOSDFrameTimings": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOSDMessages": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOSDNone": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOSDStatistics": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOntopAlways": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Ctrl+A",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOntopDefault": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOntopPlaying": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOntopVideo": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewOptions": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "O",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewPresetsCompact": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "2",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewPresetsMinimal": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "1",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewPresetsNormal": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "3",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoom025": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoom050": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+1",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoom075": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoom100": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+2",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoom150": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoom200": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+3",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoom300": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoom400": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoomAutofit": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+4",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoomAutofitLarger": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+5",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoomAutofitSmaller": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+6",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    },
+    "actionViewZoomDisable": {
+        "fullscreen": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        },
+        "keys": "Alt+0",
+        "windowed": {
+            "button": 0,
+            "mod": 0,
+            "press": 1
+        }
+    }
+}

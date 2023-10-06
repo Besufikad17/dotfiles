@@ -62,7 +62,9 @@ return packer.startup(function(use)
   use { "windwp/nvim-ts-autotag" }
   use { "theprimeagen/harpoon" }
   use { "mbbill/undotree" }
- 
+  use { "junegunn/fzf.vim" }
+  use { "junegunn/fzf" }
+
   -- Colorschemes
   use { "EdenEast/nightfox.nvim" }
   use { "folke/tokyonight.nvim" }
@@ -88,7 +90,8 @@ return packer.startup(function(use)
   use { "williamboman/mason-lspconfig.nvim" }
   use { "jose-elias-alvarez/null-ls.nvim" } -- for formatters and linters
   use { "RRethy/vim-illuminate" }
-
+  use { 'mhartington/formatter.nvim' }
+  
   -- Telescope
   use { "nvim-telescope/telescope.nvim" }
 
@@ -111,7 +114,7 @@ return packer.startup(function(use)
   use { "peitalin/vim-jsx-typescript" }
   use { "leafgarland/typescript-vim" }
   use { "styled-components/vim-styled-components" }
-  use { "neoclide/coc.nvim" }
+  use {'neoclide/coc.nvim', branch = 'release'} 
   use { "wakatime/vim-wakatime" }
   use { "josa42/coc-go" }
   use { "pantharshit00/coc-prisma" }
@@ -120,19 +123,38 @@ return packer.startup(function(use)
   use { 'thosakwe/vim-flutter' }
   use { 'natebosch/vim-lsc' }
   use { 'natebosch/vim-lsc-dart'}
-  use {"ellisonleao/glow.nvim", config = function() require("glow").setup() end}
-  use {
-    "williamboman/mason.nvim",
-    "williamboman/mason-lspconfig.nvim",
-    "neovim/nvim-lspconfig",
-  }
+  use {"ellisonleao/glow.nvim", config = function() require("glow").setup() end} 
+  use {'othree/html5.vim'} 
+  use {'evanleck/vim-svelte'}
+  use {'leafOfTree/vim-svelte-plugin'}
+
+  -- java and spring
+  use { 'mfussenegger/nvim-jdtls' }
+  use { 'mfussenegger/nvim-dap' }
+  use { 'folke/trouble.nvim' }
 
   -- transparency
   use { "xiyaowong/transparent.nvim" }
   
   -- linting
+  use('MunifTanjim/prettier.nvim')
   use { 'jose-elias-alvarez/null-ls.nvim'}
   use { 'MunifTanjim/eslint.nvim'}
+  use { "elentok/format-on-save.nvim" }
+  
+  -- refactoring 
+  use { 'nvim-lua/plenary.nvim' }
+  use { 'nvim-pack/nvim-spectre' }
+
+  -- note taking 
+  use { 'skykosiner/wiki.nvim'}
+  use({
+    "iamcco/markdown-preview.nvim",
+    run = function() vim.fn["mkdp#util#install"]() end,
+  })
+  
+  -- git lense 
+  -- use { "Eliot00/git-lens.vim" }
 
  -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins

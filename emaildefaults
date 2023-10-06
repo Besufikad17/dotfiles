@@ -1,0 +1,10 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=
+FullName=bes
+Organization=
+ReplyAddr=
+ServerType=
+TerminalClient=false

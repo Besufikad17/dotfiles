@@ -154,10 +154,30 @@ _G.packer_plugins = {
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/eslint.nvim",
     url = "https://github.com/MunifTanjim/eslint.nvim"
   },
+  ["format-on-save.nvim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/format-on-save.nvim",
+    url = "https://github.com/elentok/format-on-save.nvim"
+  },
+  ["formatter.nvim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/formatter.nvim",
+    url = "https://github.com/mhartington/formatter.nvim"
+  },
   ["friendly-snippets"] = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/friendly-snippets",
     url = "https://github.com/rafamadriz/friendly-snippets"
+  },
+  fzf = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/fzf",
+    url = "https://github.com/junegunn/fzf"
+  },
+  ["fzf.vim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/fzf.vim",
+    url = "https://github.com/junegunn/fzf.vim"
   },
   ["gitsigns.nvim"] = {
     loaded = true,
@@ -180,6 +200,11 @@ _G.packer_plugins = {
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/harpoon",
     url = "https://github.com/theprimeagen/harpoon"
   },
+  ["html5.vim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/html5.vim",
+    url = "https://github.com/othree/html5.vim"
+  },
   ["impatient.nvim"] = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/impatient.nvim",
@@ -194,6 +219,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
+  },
+  ["markdown-preview.nvim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/markdown-preview.nvim",
+    url = "https://github.com/iamcco/markdown-preview.nvim"
   },
   ["mason-lspconfig.nvim"] = {
     loaded = true,
@@ -235,10 +265,20 @@ _G.packer_plugins = {
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/nvim-dap-ui",
     url = "https://github.com/rcarriga/nvim-dap-ui"
   },
+  ["nvim-jdtls"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/nvim-jdtls",
+    url = "https://github.com/mfussenegger/nvim-jdtls"
+  },
   ["nvim-lspconfig"] = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
     url = "https://github.com/neovim/nvim-lspconfig"
+  },
+  ["nvim-spectre"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/nvim-spectre",
+    url = "https://github.com/nvim-pack/nvim-spectre"
   },
   ["nvim-tree.lua"] = {
     loaded = true,
@@ -275,6 +315,11 @@ _G.packer_plugins = {
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
   },
+  ["prettier.nvim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/prettier.nvim",
+    url = "https://github.com/MunifTanjim/prettier.nvim"
+  },
   ["project.nvim"] = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/project.nvim",
@@ -299,6 +344,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/transparent.nvim",
     url = "https://github.com/xiyaowong/transparent.nvim"
+  },
+  ["trouble.nvim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/trouble.nvim",
+    url = "https://github.com/folke/trouble.nvim"
   },
   ["typescript-vim"] = {
     loaded = true,
@@ -355,6 +405,16 @@ _G.packer_plugins = {
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-styled-components",
     url = "https://github.com/styled-components/vim-styled-components"
   },
+  ["vim-svelte"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-svelte",
+    url = "https://github.com/evanleck/vim-svelte"
+  },
+  ["vim-svelte-plugin"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-svelte-plugin",
+    url = "https://github.com/leafOfTree/vim-svelte-plugin"
+  },
   ["vim-tsx"] = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-tsx",
@@ -364,6 +424,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/bes/.local/share/nvim/site/pack/packer/start/vim-wakatime",
     url = "https://github.com/wakatime/vim-wakatime"
+  },
+  ["wiki.nvim"] = {
+    loaded = true,
+    path = "/home/bes/.local/share/nvim/site/pack/packer/start/wiki.nvim",
+    url = "https://github.com/skykosiner/wiki.nvim"
   }
 }
 

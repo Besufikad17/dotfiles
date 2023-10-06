@@ -1,1 +1,6 @@
-wq
+q
+pl-create slowbeats
+pl-create rapbox
+:pl-create myplaylist
+bind -f common 3 view playlist
+a ~/Music

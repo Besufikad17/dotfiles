@@ -1,0 +1,51 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/map.jpg,file:$HOME/Pictures/map.jpg
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1366x768 screen: Height=427
+1366x768 screen: Width=446
+
+[MainWindow]
+1366x768 screen: Window-Maximized=true
+1366x768 screen: XPosition=363
+1366x768 screen: YPosition=180
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAqAAAALQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/collection/nvim.png
+File10[$e]=$HOME/Pictures/collection/animerec.jpeg
+File2[$e]=$HOME/Pictures/collection/nvm.png
+File3[$e]=$HOME/Pictures/collection/openboxpng.png
+File4[$e]=$HOME/Pictures/collection/op9ps0qd29db1.jpg
+File5[$e]=$HOME/Pictures/collection/2023-01-24_16-52.png
+File6[$e]=$HOME/Pictures/collection/2023-08-12_23-18.png
+File7[$e]=$HOME/Pictures/collection/2023-02-17_17-07.png
+File8[$e]=$HOME/Pictures/photo_2023-09-15_20-24-55.jpg
+File9[$e]=$HOME/Downloads/matheus-bardemaker-pYRDPN6hC1A-unsplash.jpg
+Name1[$e]=nvim.png
+Name10[$e]=animerec.jpeg
+Name2[$e]=nvm.png
+Name3[$e]=openboxpng.png
+Name4[$e]=op9ps0qd29db1.jpg
+Name5[$e]=2023-01-24_16-52.png
+Name6[$e]=2023-08-12_23-18.png
+Name7[$e]=2023-02-17_17-07.png
+Name8[$e]=photo_2023-09-15_20-24-55.jpg
+Name9[$e]=matheus-bardemaker-pYRDPN6hC1A-unsplash.jpg
+
+[SideBar]
+InformationSplitterSizes=216,259
+IsVisible ViewMode=true
+SideBarSplitterSizes=202,466

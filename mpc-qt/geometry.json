@@ -1,0 +1,77 @@
+{
+    "libraryWindow": {
+        "geometry": {
+            "h": 300,
+            "w": 400,
+            "x": 0,
+            "y": 0
+        }
+    },
+    "logWindow": {
+        "geometry": {
+            "h": 455,
+            "w": 566,
+            "x": 0,
+            "y": 0
+        }
+    },
+    "mainWindow": {
+        "geometry": {
+            "h": 720,
+            "w": 1352,
+            "x": 7,
+            "y": 41
+        },
+        "maximized": false,
+        "minimized": false,
+        "state": {
+            "actionPlaySubtitlesEnabled": true,
+            "actionViewFullscreen": false,
+            "actionViewHideCapture": false,
+            "actionViewHideControls": true,
+            "actionViewHideInformation": false,
+            "actionViewHideLibrary": false,
+            "actionViewHideLog": false,
+            "actionViewHideNavigation": false,
+            "actionViewHidePlaylist": true,
+            "actionViewHideSeekbar": true,
+            "actionViewHideStatistics": true,
+            "actionViewHideStatus": false,
+            "actionViewHideSubresync": false,
+            "actionViewOntopAlways": false,
+            "actionViewOntopDefault": true,
+            "actionViewOntopPlaying": false,
+            "actionViewOntopVideo": false,
+            "decorationState": 0,
+            "shownStatsPage": 0
+        }
+    },
+    "mpvHost": {
+        "qtState": "AAAA/wAAAAD9AAAAAQAAAAEAAAEWAAACRPwCAAAAAfsAAAAcAHAAbABhAHkAbABpAHMAdABXAGkAbgBkAG8AdwEAAAAAAAACRAAAAK0A////AAAELAAAAkQAAAAEAAAABAAAAAgAAAAI/AAAAAA="
+    },
+    "playlistWindow": {
+        "floating": false,
+        "geometry": {
+            "h": 720,
+            "w": 1352,
+            "x": 7,
+            "y": 41
+        }
+    },
+    "propertiesWindow": {
+        "geometry": {
+            "h": 483,
+            "w": 400,
+            "x": 0,
+            "y": 0
+        }
+    },
+    "settingsWindow": {
+        "geometry": {
+            "h": 593,
+            "w": 896,
+            "x": 235,
+            "y": 95
+        }
+    }
+}

@@ -5,7 +5,7 @@
 (background (color-rgb 0.40000000000000002 0.16375838926174496 0.16375838926174496))
 (brush "2. Hardness 050")
 (dynamics "Dynamics Off")
-(mybrush "100% Opaque")
+(mybrush "Standard")
 (pattern "Pine")
 (gradient "FG to BG (RGB)")
 (palette "Color History")

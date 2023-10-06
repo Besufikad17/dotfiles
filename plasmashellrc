@@ -1,0 +1,13 @@
+[KFileDialog Settings]
+Recent Files[$e]=00.png,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/04.png,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/4 - TVaNulD.png,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/3QI5aHw.png,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/3lqIfoS.jpeg,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/03.png,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/02.png,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/2 - Y2k16OF.jpg,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/2 - glU6Tr0.jpg,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/2 - dq0BH2s.jpg,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/1LfXWDs.png,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/1kIhwGj.jpeg,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/1iNNHqP.jpeg,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/01.png,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/0qwm7q2as41a1.jpg,file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/00.png
+Recent URLs[$e]=file:$HOME/Pictures/wallpapers/animu/dharmx walls main anime/
+detailViewIconSize=16
+
+[PlasmaViews][Panel 2]
+panelOpacity=1
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=32
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

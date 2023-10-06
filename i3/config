@@ -13,27 +13,31 @@ set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:Hack Nerd Font 10
+font pango:Hack Nerd Font 8
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
 #font pango:DejaVu Sans Mono 8
 
+# Start XDG autostart .desktop files using dex. See also
+# https://wiki.archlinux.org/index.php/XDG_Autostart
+exec --no-startup-id dex --autostart --environment i3
+exec --no-startup-id nm-applet
+
+# brightness 
+bindsym XF86MonBrightnessUp exec "brightnessctl s +5%" 
+bindsym XF86MonBrightnessDown  exec brightnessctl s 5%-
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
 
 # xss-lock grabs a logind suspend inhibit lock and will use i3lock to lock the
 # screen before suspend. Use loginctl lock-session to lock your screen.
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
-# exec --no-startup-id xss-lock -l [/home/bes/.config/scripts/i3lock-buff.sh]
-#custom autostart apps
-#exec --no-startup-id i3-msg 'workspace 1; exec brave-browser'
-#exec --no-startup-id i3-msg 'workspace 0; exec riseup-vpn.launcher'
 
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
-exec --no-startup-id ~/.config/i3/scripts/i3-battery-popup/i3-battery-popup
+
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
@@ -41,35 +45,40 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
-# brightness 
-bindsym XF86MonBrightnessUp exec "brightnessctl s +5%" 
-bindsym XF86MonBrightnessDown  exec brightnessctl s 5%-
-
-for_window [window_role="^floating$"] floating enable
-
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
+
+# move tiling windows via drag & drop by left-clicking into the title bar,
+# or left-clicking anywhere into the window while holding the floating modifier.
 
 # start a terminal
 bindsym $mod+Return exec alacritty
 
 # kill focused window
 bindsym $mod+Shift+q kill
+
+# start dmenu (a program launcher) rofi
+bindsym $mod+d exec "rofi -no-config -no-lazy-grab -show drun -modi drun -theme ~/.config/polybar/blocks/scripts/rofi/launcher.rasi"
+
+# powerline 
+bindsym $mod+Shift+s exec "rofi -show power-menu -modi power-menu:~/.local/bin/rofi-power-menu"
+
+#postman
+bindsym $mod+Shift+p exec "~/Downloads/Postman/Postman"
+
+# autostart
 exec --no-startup-id nitrogen --restore
-
 exec --no-startup-id picom -b
-exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+exec_always --no-startup-id dunst -config ~/.config/dunst/dunstrc
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh --blocks
 
+#i3lock
 bindsym $mod+l exec $HOME/.config/scripts/lock.sh
-#bindsym $mod+l exec i3lock -u -i $HOME/Downloads/Arch_Danshi1.png 
-#bindsym $mod+l exec swaylock -e -f -i ~/path/to/wallpaper -C ~/.config/swaylock/config
-# tlauncher
-bindsym $mod+Shift+m exec /usr/lib/jvm/java-11-openjdk-11.0.18.0.10-1.fc37.x86_64/bin/java -jar /home/Downloads/TLauncher-2.879/TLauncher-2.879.jar
 
 # change focus
 bindsym $mod+j focus left
 bindsym $mod+k focus down
-bindsym $mod+p focus up
+bindsym $mod+m focus up
 bindsym $mod+semicolon focus right
 
 # alternatively, you can use the cursor keys:
@@ -95,15 +104,6 @@ bindsym $mod+h split h
 
 # split in vertical orientation
 bindsym $mod+v split v
-
-#rofi
-bindsym $mod+d exec "rofi -show drun -show-icons"
-
-# powerline 
-bindsym $mod+Shift+s exec "rofi -show power-menu -modi power-menu:~/.local/bin/rofi-power-menu"
-
-#postman
-bindsym $mod+Shift+p exec "postman"
 
 # enter fullscreen mode for the focused container
 bindsym $mod+f fullscreen toggle
@@ -196,6 +196,11 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
+# Start i3bar to display a workspace bar (plus the system information i3status
+# finds out, if available)
+#bar {
+#        status_command i3status
+#}
 
 client.focused          #83a598 #83a598 #3c3836 #83a598   #83a598
 client.focused_inactive #333333 #5f676a #ffffff #484e50   #5f676a
@@ -205,11 +210,10 @@ client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 
 client.background       #83a598
 
-for_window [class=".*"] border pixel 0
+for_window [class=".*"] border pixel 2
 
 gaps inner 5
 gaps outer 1
 
 smart_borders on
 smart_borders no_gaps
-# border_radius 2
