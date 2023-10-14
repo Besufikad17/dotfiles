@@ -57,7 +57,7 @@ return packer.startup(function(use)
   use { "akinsho/toggleterm.nvim" }
   use { "ahmedkhalf/project.nvim" }
   use { "lewis6991/impatient.nvim" }
-  use { "lukas-reineke/indent-blankline.nvim" }
+  use { "lukas-reineke/indent-blankline.nvim", main = "ibl" }
   use { "goolord/alpha-nvim" }
   use { "windwp/nvim-ts-autotag" }
   use { "theprimeagen/harpoon" }
@@ -127,6 +127,28 @@ return packer.startup(function(use)
   use {'othree/html5.vim'} 
   use {'evanleck/vim-svelte'}
   use {'leafOfTree/vim-svelte-plugin'}
+  use {
+    'akinsho/flutter-tools.nvim',
+    requires = {
+        'nvim-lua/plenary.nvim',
+        'stevearc/dressing.nvim', -- optional for vim.ui.select
+    },
+  }
+  use {
+    'j-hui/fidget.nvim',
+    tag = 'legacy',
+    config = function()
+      require("fidget").setup {
+        -- options
+      }
+    end,
+  }
+
+  -- php 
+  use { "phpactor/phpactor" }
+  use { 'ncm2/ncm2' }
+  use { 'roxma/nvim-yarp' }
+  use { 'phpactor/ncm2-phpactor' }
 
   -- java and spring
   use { 'mfussenegger/nvim-jdtls' }
@@ -152,7 +174,28 @@ return packer.startup(function(use)
     "iamcco/markdown-preview.nvim",
     run = function() vim.fn["mkdp#util#install"]() end,
   })
+  use {
+    "nvim-neorg/neorg", -- This is the important bit!
+    config = function()
+        require("neorg").setup {
+            load = {
+              ["core.defaults"] = {},
+              ["core.dirman"] = {
+                config = {
+                  workspaces = {
+                      work = "~/notes/work",
+                      home = "~/notes/home",
+                  }
+                }
+              }
+            }
+        }
+    end,
+  }
   
+  --laravel 
+  use { "adalessa/laravel.nvim" }
+
   -- git lense 
   -- use { "Eliot00/git-lens.vim" }
 

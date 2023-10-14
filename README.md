@@ -1,6 +1,6 @@
-# Fedora-Dotfiles
+# dotfiles
 
-Dotfiles for my new fedora daily driver OS.
+Dotfiles for my `opensuse` + `i3WM` setup.
 
 ## Tools used
 
@@ -35,6 +35,5 @@ I am currently working on installation script that automates everything but for 
 
 ## Preview
 
-<img src="./media/fed-i3.png" alt="preview-1" />
-<img src="./media/fed-i32.png" alt="preview-1" />
-<img src="./media/fed-i33.png" alt="preview-1" />
+<img src="./media/opensuse-i3-new2png.png">
+<img src="./media/opensuse-i3-new.png">

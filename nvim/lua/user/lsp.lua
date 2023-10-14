@@ -186,6 +186,14 @@ require "lspconfig".lua_ls.setup {
   on_attach = on_attach
 }
 
+require'lspconfig'.phpactor.setup{
+    on_attach = on_attach,
+    init_options = {
+        ["language_server_phpstan.enabled"] = false,
+        ["language_server_psalm.enabled"] = false,
+    }
+}
+
 -- Python
 require "lspconfig".pylsp.setup {
   on_attach = on_attach,

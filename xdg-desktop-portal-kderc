@@ -1,8 +1,0 @@
-[FileDialogSize]
-1366x768 screen: Height=502
-1366x768 screen: Width=742
-
-[KFileDialog Settings]
-Recent Files[$e]=2023-08-06_17-36.png,file:$HOME/Pictures/collection/7zk8o3pmmigb1.png,file:$HOME/Pictures/2023-08-06_17-36.png
-Recent URLs[$e]=file:$HOME/Pictures/,file:$HOME/,file:$HOME/Pictures/collection/
-detailViewIconSize=16

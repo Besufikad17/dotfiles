@@ -1,9 +1,0 @@
-[ElisaFileIndexer]
-RootPath[$e]=$HOME/Music
-
-[UiSettings]
-ColorScheme=Breeze Light
-
-[Views]
-ColorScheme=Breeze Light
-SortOrderPreferences=Album::==AscendingOrder
