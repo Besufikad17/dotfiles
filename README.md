@@ -24,7 +24,7 @@ I am currently working on installation script that automates everything but for 
    mkdir .config-backup
    
    # Backup your dotfiles
-   rsync -a ~/.config ~/.config-backup
+   rsync -ah ~/.config ~/.config-backup --progress
   
    # Clonning my repo
    git clone https://github.com/Besufikad17/fedora-dotfiles.git
