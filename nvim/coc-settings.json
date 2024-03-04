@@ -1,5 +1,0 @@
-{
-  "svelte.enable-ts-plugin": true,
-  "javascript.suggestionActions.enabled": false,
-  "typescript.suggestionActions.enabled": false
-}
