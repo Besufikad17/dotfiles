@@ -1,0 +1,66 @@
+# Created by Zap installer
+[ -f "${XDG_DATA_HOME:-$HOME/.local/share}/zap/zap.zsh" ] && source "${XDG_DATA_HOME:-$HOME/.local/share}/zap/zap.zsh"
+plug "zsh-users/zsh-autosuggestions"
+plug "zap-zsh/supercharge"
+plug "zap-zsh/zap-prompt"
+plug "zsh-users/zsh-syntax-highlighting"
+
+# Load and initialise completion system
+autoload -Uz compinit
+compinit
+
+# zup
+alias zup="sudo zypper cc -a && sudo zypper -vvv ref -f && sudo zypper -vvv dup --details"
+
+# nvm
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+
+# cargo
+export PATH=$PATH:~/.cargo/bin
+
+# golang
+export PATH=$PATH:/usr/local/go/bin
+
+# flutter
+export PATH=$PATH:/home/besufikad/Downloads/flutter/bin
+
+#alias flutter3='~/Downloads/flutter/bin'
+
+# spicetify
+#export PATH=$PATH:/home/bes/.spicetify
+
+# fly.io
+#export FLYCTL_INSTALL="/home/bes/.fly"
+#export PATH="$FLYCTL_INSTALL/bin:$PATH"
+
+# rungo (go nodemon)
+#alias rungo="~/scripts/rungo.sh"
+
+#. "$HOME/.cargo/env"
+
+# symfony
+#export PATH="$HOME/.symfony5/bin:$PATH"
+
+# adb
+#alias adb="~/Downloads/platform-tools/adb"
+
+# bun completions
+[ -s "/home/besufikad/.bun/_bun" ] && source "/home/besufikad/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+
+export PATH=$PATH:/home/besufikad/.spicetify
+
+# pnpm
+export PNPM_HOME="/home/besufikad/.local/share/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
