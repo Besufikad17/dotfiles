@@ -1,15 +1,6 @@
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-"      _   _ _  __
-"     | \ | | |/ /                  by Night-King 
-"     |  \| | ' /                   =>feel free to edit to fit your own needs
-"     | |\  | . \                   t.me/@chill_Vibez
-"     |_| \_|_|\_\
-
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Leader key.
-let mapleader = "," 
+let mapleader = " " 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
 
 set nocompatible              " be iMproved, required
 filetype off                  " required
@@ -282,7 +273,7 @@ augroup END
 
 " Quick-Quit Commands.
 """""""""""""""""""""""""""""""
-noremap <Leader>e :quit<CR>
+noremap <Leader>q :quit<CR>
 noremap <Leader>E :qa!<CR>   
 """""""""""""""""""""""""""""""""""""""""""""""""""
 " Bind Ctrl+<movement> keys to move around the windows
@@ -306,7 +297,7 @@ nnoremap <Leader>b <esc>:tabnew<CR>
 """""""""""""""""""""""""""""""""""
 " EXTENSION'S Shortuct
 nnoremap <Leader>q :TemplateInit<CR>                    
-nnoremap <Leader>s :NERDTreeToggle<CR>                  
+nnoremap <Leader>e :NERDTreeToggle<CR>                  
 nnoremap <Leader>g :Goyo<CR>                           
 nnoremap <Leader>p :MarkdownPreview<CR>                 
 nnoremap <leader>ps :MarkdownPreviewStop<CR>           
